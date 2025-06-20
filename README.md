@@ -26,4 +26,13 @@ The framework uses **cardinality-constrained optimisation** to ensure transparen
 ---
 
 ## 📁 Repository Contents
+- data (Containing actual and noised data)
+- graphics
+- results
+- An end-to-end MATLAB live script which produces all the examples and figures in the paper
 
+---
+
+## Requirements
+- MATLAB (Only tested on 2024a version)
+- COBRA Toolbox see: https://github.com/opencobra/cobratoolbox
