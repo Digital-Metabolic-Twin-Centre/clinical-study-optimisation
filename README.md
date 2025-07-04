@@ -30,9 +30,76 @@ The framework uses **cardinality-constrained optimisation** to ensure transparen
 - graphics
 - results
 - An end-to-end MATLAB live script which produces all the examples and figures in the paper
+- 
 
 ---
 
 ## Requirements
 - MATLAB (Only tested on 2024a version)
 - COBRA Toolbox see: https://github.com/opencobra/cobratoolbox
+
+---
+## 🚀 Quick Start Guide
+
+To reproduce the examples and figures from the paper, follow the steps below to set up the environment and run the live script.
+
+### 1. 🖥️ Install MATLAB
+
+Ensure you have MATLAB installed. This project has been tested with **MATLAB R2024a, R2024b, and R2025a**.
+
+> 🔧 You can obtain MATLAB via your institution or from [mathworks.com](https://www.mathworks.com/).
+
+---
+
+### 2. 📦 Install the COBRA Toolbox
+
+Clone and initialise the [COBRA Toolbox](https://github.com/opencobra/cobratoolbox):
+
+```bash
+git clone https://github.com/opencobra/cobratoolbox.git
+
+In MATLAB:
+
+```matlab
+initCobraToolbox(false)  % Do not update
+savepath
+```
+### 3. ⚙️ Install a Solver (e.g. Gurobi)
+
+To enable optimisation, install a compatible solver such as **Gurobi**:
+
+- Obtain a free academic license from [gurobi.com](https://www.gurobi.com/)
+- Follow the installation instructions for your platform
+- Use `changeCobraSolver` in MATLAB to set Gurobi as the default:
+
+```matlab
+changeCobraSolver('gurobi', 'all');
+```
+
+> 📌 Alternatively, you may use other supported solvers like CPLEX or GLPK.
+
+### 4. 📥 Clone this Repository
+
+Download or clone this repository:
+
+```bash
+git clone https://github.com/CompBtBs/COBRAxy.git
+```
+
+Open MATLAB and navigate to the cloned folder:
+
+```matlab
+cd('path/to/COBRAxy')
+```
+
+---
+
+### 5. ▶️ Run the Live Script
+
+Launch the live script to run the full pipeline and reproduce results:
+
+```matlab
+open('recruitmentStrategyLiveScript.mlx')
+```
+
+Then click **Run All** to execute the entire analysis. This will generate all the results and figures presented in the paper.
