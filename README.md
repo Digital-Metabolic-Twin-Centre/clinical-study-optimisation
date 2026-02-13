@@ -1,6 +1,6 @@
 # Clinical Study Optimisation
 
-**Cardinality-Constrained Modelling Framework for Transparent and Fair Multi-Site Recruitment in Rare Disease Research**
+**Optimising Recruitment and Sample Allocation in Multi-Site Rare Disease Studies**
 
 This repository contains the full implementation of the optimisation framework described in the manuscript:
 
