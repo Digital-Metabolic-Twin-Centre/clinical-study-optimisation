@@ -4,7 +4,7 @@
 
 This repository contains the full implementation of the optimisation framework described in the manuscript:
 
-> *Cardinality-Constrained Modelling for Transparent and Fair Multi-Site Recruitment in Rare Disease Research: Application to Recon4IMD*  
+> *Optimising Recruitment and Sample Allocation in Multi-Site Rare Disease Studies*  
 > Farid Zare¹², Ronan M.T. Fleming¹²  
 > ¹School of Medicine, University of Galway, Ireland  
 > ²Digital Metabolic Twin Centre, University of Galway, Ireland  
