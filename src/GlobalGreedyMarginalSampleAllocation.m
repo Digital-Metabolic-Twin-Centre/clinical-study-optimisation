@@ -1,6 +1,6 @@
 function [U_greedy, H_greedy, costT, costG, totalCost, stats] = ...
-    GlobalGreedyMarginalAllocation(y, T, G, r, a, B, capT, capG, opts)
-% GlobalGreedyMarginalAllocation (ENHANCED + RANDOM RESTARTS)
+    GlobalGreedyMarginalSampleAllocation(y, T, G, r, a, B, capT, capG, opts)
+% GlobalGreedyMarginalSampleAllocation (ENHANCED + RANDOM RESTARTS)
 % Capacity-aware global greedy benchmark for sample allocation.
 %
 % This version adds RANDOM RESTARTS to make batchMode=false robust:

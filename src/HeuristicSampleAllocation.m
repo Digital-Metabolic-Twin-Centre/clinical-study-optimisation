@@ -1,6 +1,6 @@
 function [U_heur, H_heur, costT_heur, costG_heur, totalCost_heur] = ...
-         HeuristicBaselineAllocation(y, T, G, r, a, B, capT, capG)
-% HeuristicBaselineAllocation with optional sample caps per platform.
+         HeuristicSampleAllocation(y, T, G, r, a, B, capT, capG)
+% HeuristicSampleAllocation with optional sample caps per platform.
 % Ensures T*U ≥ 2S and G*H ≥ 2S, and optionally sum(U,2) ≤ capT and sum(H,2) ≤ capG.
 %
 % Inputs:
