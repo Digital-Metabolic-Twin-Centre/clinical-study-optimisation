@@ -1,0 +1,282 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: (MATLAB, The MathWorks, Inc. Version 25.1.0.2973910 R2025a Update 1. Operating System: Linux 6.8.0-40-generic #40-Ubuntu SMP PREEMPT_DYNAMIC Fri Jul  5 10:34:03 UTC 2024 x86_64)
+%%Title: ./metabolomic_cost_opt_vs_heu_vs_greedy.eps
+%%CreationDate: 2026-02-24T20:17:29
+%%Pages: (atend)
+%%BoundingBox:    0     0   398   273
+%%LanguageLevel: 3
+%%EndComments
+/bd{bind def}bind def
+/ld{load def}bd
+/GR/grestore ld
+/GS/gsave ld
+/RM/rmoveto ld
+/C/curveto ld
+/t/show ld
+/L/lineto ld
+/RL/rlineto ld
+/ML/setmiterlimit ld
+/CT/concat ld
+/f/fill ld
+/N/newpath ld
+/S/stroke ld
+/CC/setcmykcolor ld
+/A/ashow ld
+/cp/closepath ld
+/RC/setrgbcolor ld
+/LJ/setlinejoin ld
+/GC/setgray ld
+/LW/setlinewidth ld
+/LC/setlinecap ld
+/LJ/setlinejoin ld
+/SD/setdash ld
+/M/moveto ld
+/TX/translate ld
+/R/rotate ld
+/SC/scale ld
+
+/CIRC {0 360 arc}bd
+/F {exch findfont exch scalefont setfont}bd
+/edef{ exch def } def
+/scaleImg{ % width height outputDPI scaleImg
+   /outputDPI edef
+   /height edef
+   /width edef
+   /psDPI 72 def
+   /sDPI psDPI outputDPI div def % DPI scale
+   width sDPI mul % width * (psDPI / outputDPI)
+   height sDPI mul
+   scale
+} def
+
+% LineAttribute methods.linewidth linejoin linecap [dashpattern] dashOffset colorVal(s) <method>
+/LAG {setgray setdash setlinecap setlinejoin setlinewidth} bd
+/LAR {setrgbcolor setdash setlinecap setlinejoin setlinewidth} bd
+/LAC {setcmykcolor setdash setlinecap setlinejoin setlinewidth} bd
+
+% draw line impl
+/DL { % VertexList NVerts StartPt DL
+  N moveto { lineto } repeat stroke} def
+% draw unfilled polyline impl
+/DPL { % VertexList NVerts StartPt DPL
+  N moveto { lineto } repeat closepath stroke} def
+% draw filled polyline impl
+/DPLF { % VertexList NVerts StartPt DPLF
+  N moveto { lineto } repeat closepath fill } def
+/DRL { % VertexList NVerts StartPt DRL
+  N moveto { rlineto } repeat stroke} def
+% draw unfilled polyline impl
+/DRPL { % VertexList NVerts StartPt DRPL
+  N moveto { rlineto } repeat closepath stroke} def
+% draw filled polyline impl
+/DRPLF { % VertexList NVerts StartPt DRPLF
+  N moveto { rlineto } repeat closepath fill } def
+
+%%Page: 1 1
+%%PageBoundingBox:    0     0   398   273
+%%BeginPageSetup
+N
+0 0 M
+397.17 0 L
+397.17 272.82 L
+0 272.82 L
+cp
+clip
+1.00 GC
+0 272.82 397.17 272.82 397.17 0 3 0 0 DPLF
+[  0.75 0 0 -0.75 0 269.821] CT
+%%EndPageSetup
+-38.11 -2.35 TX
+1.00 LW
+565 29 565 342 81 342 3 81 29 DPLF
+1.33 2 2 [] 0 0.13 LAG
+565 342 1 81 342 DL
+159.85 337.16 1 159.85 342 DL
+323 337.16 1 323 342 DL
+486.15 337.16 1 486.15 342 DL
+/Arial 13.3333 F
+GS
+119.35 357.11 M
+1 -1 scale
+(Targeted Cost) t
+GR
+GS
+289 357.11 M
+1 -1 scale
+(Global Cost) t
+GR
+GS
+457.15 357.11 M
+1 -1 scale
+(Total Cost) t
+GR
+/Arial 14.6667 F
+GS
+50.11 254.5 M
+1 -1 scale
+90 R
+(Cost \(thousand euros\)) t
+GR
+81 29 1 81 342 DL
+85.84 342 1 81 342 DL
+85.84 298.09 1 81 298.09 DL
+85.84 254.18 1 81 254.18 DL
+85.84 210.27 1 81 210.27 DL
+85.84 166.37 1 81 166.37 DL
+85.84 122.46 1 81 122.46 DL
+85.84 78.55 1 81 78.55 DL
+85.84 34.64 1 81 34.64 DL
+/Arial 13.3333 F
+GS
+70.89 346.5 M
+1 -1 scale
+(0) t
+GR
+GS
+55.89 302.59 M
+1 -1 scale
+(100) t
+GR
+GS
+55.89 258.68 M
+1 -1 scale
+(200) t
+GR
+GS
+55.89 214.77 M
+1 -1 scale
+(300) t
+GR
+GS
+55.89 170.87 M
+1 -1 scale
+(400) t
+GR
+GS
+55.89 126.96 M
+1 -1 scale
+(500) t
+GR
+GS
+55.89 83.05 M
+1 -1 scale
+(600) t
+GR
+GS
+55.89 39.14 M
+1 -1 scale
+(700) t
+GR
+0.67 2 0 [] 0 0.13 LAG
+565 342 1 81 342 DL
+0.30 0.55 0.85 RC
+137.19 286.88 137.19 342 110 342 3 110 286.88 DPLF
+300.34 124.95 300.34 342 273.15 342 3 273.15 124.95 DPLF
+463.49 69.83 463.49 342 436.3 342 3 436.3 69.83 DPLF
+0.67 0 0 [] 0 0.13 LAG
+137.19 342 137.19 286.88 110 286.88 3 110 342 DPL
+300.34 342 300.34 124.95 273.15 124.95 3 273.15 342 DPL
+463.49 342 463.49 69.83 436.3 69.83 3 436.3 342 DPL
+0.90 0.60 0.00 RC
+173.45 288.45 173.45 342 146.26 342 3 146.26 288.45 DPLF
+336.6 129.37 336.6 342 309.4 342 3 309.4 129.37 DPLF
+499.74 75.82 499.74 342 472.55 342 3 472.55 75.82 DPLF
+0.67 0 0 [] 0 0.13 LAG
+173.45 342 173.45 288.45 146.26 288.45 3 146.26 342 DPL
+336.6 342 336.6 129.37 309.4 129.37 3 309.4 342 DPL
+499.74 342 499.74 75.82 472.55 75.82 3 472.55 342 DPL
+0.00 0.60 0.50 RC
+209.7 304.91 209.7 342 182.51 342 3 182.51 304.91 DPLF
+372.85 195.07 372.85 342 345.66 342 3 345.66 195.07 DPLF
+536 157.98 536 342 508.81 342 3 508.81 157.98 DPLF
+0.67 0 0 [] 0 0.13 LAG
+209.7 342 209.7 304.91 182.51 304.91 3 182.51 342 DPL
+372.85 342 372.85 195.07 345.66 195.07 3 345.66 342 DPL
+536 342 536 157.98 508.81 157.98 3 508.81 342 DPL
+/Helvetica 13.3333 F
+GS
+107.6 278.44 M
+1 -1 scale
+(125.5) t
+GR
+GS
+270.75 116.5 M
+1 -1 scale
+(494.3) t
+GR
+GS
+433.89 61.38 M
+1 -1 scale
+(619.9) t
+GR
+GS
+143.85 280 M
+1 -1 scale
+(122.0) t
+GR
+GS
+307 120.92 M
+1 -1 scale
+(484.3) t
+GR
+GS
+470.15 67.37 M
+1 -1 scale
+(606.2) t
+GR
+GS
+183.61 296.47 M
+1 -1 scale
+(84.5) t
+GR
+GS
+343.25 186.62 M
+1 -1 scale
+(334.6) t
+GR
+GS
+506.4 149.53 M
+1 -1 scale
+(419.1) t
+GR
+/Arial 13.3333 F
+GS
+162.5 9.35 M
+1 -1 scale
+(Metabolomic Analysis Cost Comparison for 797 Patients) t
+GR
+1.00 GC
+323 40 323 87 92 87 3 92 40 DPLF
+0.30 0.55 0.85 RC
+136 43.75 136 54.25 96 54.25 3 96 43.75 DPLF
+0.67 0 0 [] 0 0.13 LAG
+136 54.25 136 43.75 96 43.75 3 96 54.25 DPL
+0.90 0.60 0.00 RC
+136 58.25 136 68.75 96 68.75 3 96 58.25 DPLF
+0.67 0 0 [] 0 0.13 LAG
+136 68.75 136 58.25 96 58.25 3 96 68.75 DPL
+0.00 0.60 0.50 RC
+136 72.75 136 83.25 96 83.25 3 96 72.75 DPLF
+0.67 0 0 [] 0 0.13 LAG
+136 83.25 136 72.75 96 72.75 3 96 83.25 DPL
+/Arial 12 F
+GS
+139 53 M
+1 -1 scale
+(Heuristic) t
+GR
+GS
+139 67.5 M
+1 -1 scale
+(Global Greedy) t
+GR
+GS
+139 82 M
+1 -1 scale
+(Recruitment and Allocation Model) t
+GR
+1.33 0 0 [] 0 0.13 LAG
+323 87 323 40 92 40 3 92 87 DPL
+%%Trailer
+%%Pages: 1
+%%EOF
