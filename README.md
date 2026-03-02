@@ -83,13 +83,13 @@ changeCobraSolver('gurobi', 'all');
 Download or clone this repository:
 
 ```bash
-git clone https://github.com/CompBtBs/COBRAxy.git
+git clone git@github.com:Digital-Metabolic-Twin-Centre/clinical-study-optimisation.git clinical_study_optimisation
 ```
 
 Open MATLAB and navigate to the cloned folder:
 
 ```matlab
-cd('path/to/COBRAxy')
+cd('clinical_study_optimisation/src')
 ```
 
 ---
