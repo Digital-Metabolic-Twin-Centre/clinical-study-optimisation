@@ -1,0 +1,434 @@
+# Dataset metadata records for files in ./data
+# This file is intentionally pre-populated with one block per dataset file.
+# Replace placeholder values (empty strings and TODO-like fields) with project-specific details.
+
+- dataset_id: all_centres_metabolites
+  file_name: AllCentresMetabolites.xlsx
+  title: All Centres Metabolites
+  description: >
+    Metabolite-related data aggregated across participating centres; used in recruitment
+    and/or sample allocation analyses.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: Curated
+    provider: Study consortium
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: "Multi-site"
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: true
+  anonymisation_method: ""
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Imported and harmonised for optimisation workflow
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
+
+- dataset_id: clinical_interest
+  file_name: Clinical_Interest.xlsx
+  title: Clinical Interest Weights
+  description: >
+    Dataset containing clinical-priority or interest scores used to weight diseases,
+    biomarkers, or allocation objectives in optimisation scenarios.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: Curated
+    provider: Study consortium
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: "Multi-site"
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: true
+  anonymisation_method: ""
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Consumed in optimisation and heuristic comparison analyses
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
+
+- dataset_id: gene_data
+  file_name: GeneData.xlsx
+  title: Gene Data
+  description: >
+    Gene-level data used as input context for disease mapping and study-design
+    optimisation analyses.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: Curated
+    provider: Study consortium
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: ""
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: true
+  anonymisation_method: ""
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Used as reference input in workflow preparation
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
+
+- dataset_id: iembase_fz
+  file_name: IEMbase_fz.xlsx
+  title: IEMbase-derived Dataset
+  description: >
+    Curated data derived from or aligned with IEMbase and used in disease-metabolite
+    mapping and optimisation input preparation.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: External
+    provider: IEMbase / consortium curation
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: ""
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: true
+  anonymisation_method: ""
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Mapped and integrated for model input
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: dataset
+      title: IEMbase
+      identifier: ""
+
+- dataset_id: imd_list
+  file_name: IMD_List.xlsx
+  title: IMD List
+  description: >
+    Master list of inherited metabolic diseases included in scope for this study.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: Curated
+    provider: Study consortium
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: ""
+  language: en
+  license: ""
+  access_rights: Open
+  sensitive_data: false
+  anonymisation_method: "Not applicable"
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Used as disease index and filtering reference
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
+
+- dataset_id: imd_mapped
+  file_name: IMD_mapped.xlsx
+  title: IMD Mapped Dataset
+  description: >
+    Mapping table linking IMDs to related entities (for example metabolites or genes)
+    for optimisation input harmonisation.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: Curated
+    provider: Study consortium
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: ""
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: true
+  anonymisation_method: ""
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Used to align disease and biomarker spaces
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
+
+- dataset_id: patients_per_hcp_noised
+  file_name: PatinetsPerHCP_noised.xlsx
+  title: Patients per HCP (Noised)
+  description: >
+    Differentially private or otherwise noised patient-count matrix by healthcare
+    provider, intended for privacy-preserving optimisation inputs.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: Generated
+    provider: Internal anonymisation pipeline
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: "Multi-site"
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: true
+  anonymisation_method: Laplace noise (see src/anonymiseData.m)
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Generated from original count data with privacy-preserving perturbation
+      script: src/anonymiseData.m
+      parameters: epsilon
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: Noise may impact small counts
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
+
+- dataset_id: metabolomic_cost2
+  file_name: metabolomicCost2.xlsx
+  title: Metabolomic Cost Matrix
+  description: >
+    Cost data associated with metabolomic platforms, assays, or centre-specific
+    processing and logistics used in optimisation objectives.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: Curated
+    provider: Study consortium
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: "Multi-site"
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: false
+  anonymisation_method: "Not applicable"
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Used as objective coefficients in allocation optimisation
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
+
+- dataset_id: vmh_metabolites
+  file_name: vmhMetabolites.xlsx
+  title: VMH Metabolites Reference
+  description: >
+    Metabolite reference data aligned with VMH nomenclature for mapping and
+    interoperability across inputs.
+  creators:
+    - name: Zare, Farid
+      affiliation: University of Galway
+      orcid: ""
+  contact:
+    name: Project Maintainer
+    email: ""
+  source:
+    origin: External
+    provider: VMH and consortium curation
+    source_url: ""
+    source_reference: ""
+  temporal_coverage:
+    start_date: ""
+    end_date: ""
+  geographic_coverage: ""
+  language: en
+  license: ""
+  access_rights: Restricted
+  sensitive_data: false
+  anonymisation_method: "Not applicable"
+  version: "v1.0"
+  created_date: ""
+  last_modified: ""
+  file_format: xlsx
+  encoding: ""
+  schema:
+    primary_key: ""
+    columns: []
+  processing_history:
+    - step: Used for identifier harmonisation in mapping workflow
+      script: src/recruitmentStrategyLiveScript.mlx
+      parameters: ""
+      date: ""
+  quality_notes:
+    missing_data_handling: ""
+    known_limitations: ""
+  related_resources:
+    - type: software
+      title: Clinical Study Optimisation repository
+      identifier: https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation
