@@ -4,6 +4,7 @@
 
 - dataset_id: all_centres_metabolites
   file_name: AllCentresMetabolites.xlsx
+  csv_file: csv_formats/AllCentresMetabolites.csv
   title: All Centres Metabolites
   description: >
     Metabolite-related data aggregated across participating centres; used in recruitment
@@ -33,6 +34,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -52,6 +54,7 @@
 
 - dataset_id: clinical_interest
   file_name: Clinical_Interest.xlsx
+  csv_file: csv_formats/Clinical_Interest.csv
   title: Clinical Interest Weights
   description: >
     Dataset containing clinical-priority or interest scores used to weight diseases,
@@ -81,6 +84,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -100,6 +104,7 @@
 
 - dataset_id: gene_data
   file_name: GeneData.xlsx
+  csv_file: csv_formats/GeneData.csv
   title: Gene Data
   description: >
     Gene-level data used as input context for disease mapping and study-design
@@ -129,6 +134,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -148,6 +154,7 @@
 
 - dataset_id: iembase_fz
   file_name: IEMbase_fz.xlsx
+  csv_file: csv_formats/IEMbase_fz.csv
   title: IEMbase-derived Dataset
   description: >
     Curated data derived from or aligned with IEMbase and used in disease-metabolite
@@ -177,6 +184,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -196,6 +204,7 @@
 
 - dataset_id: imd_list
   file_name: IMD_List.xlsx
+  csv_file: csv_formats/IMD_List.csv
   title: IMD List
   description: >
     Master list of inherited metabolic diseases included in scope for this study.
@@ -224,6 +233,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -243,6 +253,7 @@
 
 - dataset_id: imd_mapped
   file_name: IMD_mapped.xlsx
+  csv_file: csv_formats/IMD_mapped.csv
   title: IMD Mapped Dataset
   description: >
     Mapping table linking IMDs to related entities (for example metabolites or genes)
@@ -272,6 +283,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -291,6 +303,7 @@
 
 - dataset_id: patients_per_hcp_noised
   file_name: PatinetsPerHCP_noised.xlsx
+  csv_file: csv_formats/PatinetsPerHCP_noised.csv
   title: Patients per HCP (Noised)
   description: >
     Differentially private or otherwise noised patient-count matrix by healthcare
@@ -320,6 +333,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -339,6 +353,7 @@
 
 - dataset_id: metabolomic_cost2
   file_name: metabolomicCost2.xlsx
+  csv_file: csv_formats/metabolomicCost2.csv
   title: Metabolomic Cost Matrix
   description: >
     Cost data associated with metabolomic platforms, assays, or centre-specific
@@ -368,6 +383,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""
@@ -387,6 +403,7 @@
 
 - dataset_id: vmh_metabolites
   file_name: vmhMetabolites.xlsx
+  csv_file: csv_formats/vmhMetabolites.csv
   title: VMH Metabolites Reference
   description: >
     Metabolite reference data aligned with VMH nomenclature for mapping and
@@ -416,6 +433,7 @@
   created_date: ""
   last_modified: ""
   file_format: xlsx
+  interoperable_file_format: csv
   encoding: ""
   schema:
     primary_key: ""

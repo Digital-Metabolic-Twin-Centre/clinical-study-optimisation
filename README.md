@@ -25,6 +25,7 @@ The framework uses **cardinality-constrained optimisation** to ensure transparen
 
 ## 📁 Repository Contents
 - data (Containing actual and noised data)
+- data/csv_formats (CSV exports of core datasets for interoperability)
 - graphics
 - results
 - An end-to-end MATLAB live script which produces all the examples and figures in the paper
@@ -110,5 +111,6 @@ Then click **Run All** to execute the entire analysis. This will generate all th
 - **Citation**: Citation metadata is provided in `CITATION.cff`.
 - **Dataset metadata records**: Pre-populated metadata for each dataset file is available at `data/metadata.yaml`.
 - **Dataset metadata template**: The reusable template is available at `data/metadata_template.yaml`.
+- **Interoperable formats**: CSV exports for all primary datasets are available in `data/csv_formats/`.
 
 For best reuse, duplicate and complete one metadata block per dataset in `data/`.

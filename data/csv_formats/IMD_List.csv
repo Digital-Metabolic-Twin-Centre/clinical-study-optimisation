@@ -1,0 +1,132 @@
+DiseaseName,AlternativeNames,modeOfInheritance,IEMbaseNosologyCode,ICIMDNosologyGroup,ICIMDGroup,DCSPatientNumber
+Hypoxanthine guanine phosphoribosyltransferase deficiency,"Lesch-Nyhan syndrome, Kelley-Seegmiller syndrome",X-linked-R (XLR),IEM0017,Disorders of purine metabolism,Metabolism of heterocyclic compounds,5 - 10
+Guanidinoacetate methyltransferase deficiency,Cerebral creatine deficiency syndrome type 2,Autosomal Recessive,IEM0044,Disorders of creatine metabolism,Intermediary metabolism: Energy,5 - 10
+Creatine transporter deficiency,"Cerebral creatine deficiency syndrome type 1, X-linked creatine deficiency syndrome",X-linked,IEM0045,Disorders of creatine metabolism,Intermediary metabolism: Energy,15 - 20
+Carbamoyl phosphate synthetase I deficiency,"CPS1 deficiency, Carbamyl phosphate synthetase deficiency",Autosomal Recessive,IEM0057,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,10 - 15
+Ornithine transcarbamylase deficiency,"Ornithine carbamoyltransferase deficiency, Ornithine carbamyl transferase deficiency",X-linked,IEM0058,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,10 - 15
+Argininosuccinate synthetase deficiency,"Citrullinemia type I, Classical citrullinemia",Autosomal Recessive,IEM0059,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,10 - 15
+Argininosuccinate lyase deficiency,"Argininosuccinase deficiency, Argininosuccinic aciduria",Autosomal Recessive,IEM0060,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,5 - 10
+Arginase 1 deficiency,"Argininemia, Hyperargininemia",Autosomal Recessive,IEM0061,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,15 - 20
+Mitochondrial ornithine transporter deficiency,"Hyperammonemia-hyperornithinemia-homocitrullinuria (HHH) syndrome, Ornithine translocase deficiency",Autosomal Recessive,IEM0062,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,10 - 15
+Citrin deficiency,Citrullinemia type II,Autosomal Recessive,IEM0063,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,15 - 20
+Hartnup disorder,,Autosomal Recessive,IEM0065,Disorders of amino acid transport,Intermediary metabolism: Nutrients,15 - 20
+Cystinuria type A,,Autosomal Recessive,IEM0068,Disorders of amino acid transport,Intermediary metabolism: Nutrients,5 - 10
+Lysinuric protein intolerance,Dibasic aminoaciduria type 2,Autosomal Recessive,IEM0070,Disorders of amino acid transport,Intermediary metabolism: Nutrients,10 - 15
+Aspartoacylase deficiency,"Canavan disease, N-Acetylaspartic aciduria",Autosomal Recessive,IEM0074,Disorders of glutamate/glutamine and aspartate/asparagine metabolism,Intermediary metabolism: Nutrients,15 - 20
+Tyrosine hydroxylase deficiency,L-dopa responsive dystonia,Autosomal Recessive,IEM0076,Monoamine neurotransmission,Intermediary metabolism: Other,15 - 20
+Dopamine transporter deficiency,Infantile Parkinsonism-dystonia,Autosomal Recessive,IEM0080,Monoamine neurotransmission,Intermediary metabolism: Other,15 - 20
+Phenylalanine hydroxylase deficiency,Phenylketonuria,Autosomal Recessive,IEM0082,Disorders of phenylalanine and tyrosine metabolism,Intermediary metabolism: Nutrients,10 - 15
+Autosomal dominant GTP cyclohydrolase 1 deficiency,"Segawa disease, Dopa-responsive dystonia",Autosomal Dominant,IEM0084,Disorders of tetrahydrobiopterin metabolism,Cofactor and mineral metabolism,15 - 20
+6-Pyruvoyl-tetrahydropterin synthase deficiency,,Autosomal Recessive,IEM0085,Disorders of tetrahydrobiopterin metabolism,Cofactor and mineral metabolism,15 - 20
+Dihydropteridine reductase deficiency,,Autosomal Recessive,IEM0087,Disorders of tetrahydrobiopterin metabolism,Cofactor and mineral metabolism,15 - 20
+Tyrosine aminotransferase deficiency,"Tyrosinemia type 2, Richner-Hanhart syndrome",Autosomal Recessive,IEM0091,Disorders of phenylalanine and tyrosine metabolism,Intermediary metabolism: Nutrients,5 - 10
+Homogentisic acid oxidase deficiency,Alkaptonuria,Autosomal Recessive,IEM0094,Disorders of phenylalanine and tyrosine metabolism,Intermediary metabolism: Nutrients,10 - 15
+Fumarylacetoacetase deficiency,Tyrosinemia type 1,Autosomal Recessive,IEM0096,Disorders of phenylalanine and tyrosine metabolism,Intermediary metabolism: Nutrients,10 - 15
+Methionine adenosyltransferase I-III deficiency,Mudd‚Äôs disease,Autosomal Recessive,IEM0097,Disorders of the metabolism of sulfur-containing amino acids and hydrogen sulfide,Intermediary metabolism: Nutrients,10 - 15
+Cystathionine beta-synthase deficiency,Classical homocystinuria,Autosomal Recessive,IEM0102,Disorders of the metabolism of sulfur-containing amino acids and hydrogen sulfide,Intermediary metabolism: Nutrients,5 - 10
+Cystathionine gamma-lyase deficiency,"Cystathioninuria, Cystathioninase deficiency",Autosomal Recessive,IEM0103,Disorders of the metabolism of sulfur-containing amino acids and hydrogen sulfide,Intermediary metabolism: Nutrients,10 - 15
+Branched-chain ketoacid dehydrogenase E1 alpha deficiency,Maple syrup urine disease type 1a,Autosomal Recessive,IEM0108,Disorders of branched-chain amino acid metabolism,Intermediary metabolism: Nutrients,5 - 10
+Branched-chain ketoacid dehydrogenase E1 beta deficiency,Maple syrup urine disease type 1b,Autosomal Recessive,IEM0109,Disorders of branched-chain amino acid metabolism,Intermediary metabolism: Nutrients,5 - 10
+Dihydrolipoyl transacylase deficiency,"Maple syrup urine disease type 2, Branched-chain ketoacid dehydrogenase E2 deficiency",Autosomal Recessive,IEM0110,Disorders of branched-chain amino acid metabolism,Intermediary metabolism: Nutrients,5 - 10
+Dihydrolipoyl dehydrogenase deficiency,Pyruvate dehydrogenase E3 deficiency,Autosomal Recessive,IEM0111,Disorders of pyruvate metabolism,Intermediary metabolism: Energy,10 - 15
+Isovaleryl-CoA dehydrogenase deficiency,Isovaleric acidemia,Autosomal Recessive,IEM0113,Organic acidurias,Intermediary metabolism: Nutrients,5 - 10
+3-Methylcrotonyl-CoA carboxylase 1 deficiency,3-Methylcrotonylglycinuria type 1,Autosomal Recessive,IEM0116,Organic acidurias,Intermediary metabolism: Nutrients,10 - 15
+3-Methylglutaconyl-CoA hydratase deficiency,3-Methylglutaconic aciduria type I,Autosomal Recessive,IEM0118,Organic acidurias,Intermediary metabolism: Nutrients,5 - 10
+3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,Hydroxymethylglutaric aciduria,Autosomal Recessive,IEM0122,Disorders of ketone body metabolism,Intermediary metabolism: Nutrients,5 - 10
+Propionic acidemia due to propionyl-CoA carboxylase subunit alpha deficiency,,Autosomal Recessive,IEM0124,Organic acidurias,Intermediary metabolism: Nutrients,5 - 10
+Propionic acidemia due to propionyl-CoA carboxylase subunit beta deficiency,,Autosomal Recessive,IEM0125,Organic acidurias,Intermediary metabolism: Nutrients,5 - 10
+Methylmalonic aciduria due to methylmalonyl-CoA epimerase deficiency,Methylmalonic aciduria 3,Autosomal Recessive,IEM0126,Organic acidurias,Intermediary metabolism: Nutrients,15 - 20
+Methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency,,Autosomal Recessive,IEM0127,Organic acidurias,Intermediary metabolism: Nutrients,5 - 10
+Alpha-aminoadipic semialdehyde synthase deficiency,"Familial hyperlysinemia, Saccharopinuria",Autosomal Recessive,IEM0130,"Disorders of lysine, hydroxylysine, and tryptophan metabolism",Intermediary metabolism: Nutrients,10 - 15
+Alpha-amino adipic semialdehyde (AASA) dehydrogenase deficiency,"Pyridoxine-dependent seizures, Antiquitin (ALDH7A1) gene defect",Autosomal Recessive,IEM0131,Disorders of pyridoxine metabolism,Cofactor and mineral metabolism,15 - 20
+Glutaryl-CoA dehydrogenase deficiency,Glutaric acidemia type 1,Autosomal Recessive,IEM0134,Organic acidurias,Intermediary metabolism: Nutrients,15 - 20
+Proline dehydrogenase deficiency,"Proline oxidase deficiency, Hyperprolinemia type I",Autosomal Recessive,IEM0141,"Disorders of ornithine, proline and hydroxyproline metabolism",Intermediary metabolism: Nutrients,15 - 20
+Pyrroline-5-carboxylate dehydrogenase deficiency,Hyperprolinemia type 2,Autosomal Recessive,IEM0142,"Disorders of ornithine, proline and hydroxyproline metabolism",Intermediary metabolism: Nutrients,5 - 10
+Ornithine aminotransferase deficiency,"Gyrate atrophy of the choroid and retina, Hyperornithinemia",Autosomal Recessive,IEM0146,"Disorders of ornithine, proline and hydroxyproline metabolism",Intermediary metabolism: Nutrients,5 - 10
+Dihydropyrimidine dehydrogenase deficiency,Thymine-uraciluria,Autosomal Recessive,IEM0148,Disorders of pyrimidine metabolism,Metabolism of heterocyclic compounds,5 - 10
+Succinic semialdehyde dehydrogenase deficiency SSADH,4-Hydroxybutyric aciduria,Autosomal Recessive,IEM0153,Gamma-aminobutyric acid neurotransmitter disorders,Metabolic cell signaling,15 - 20
+Glutamate dehydrogenase superactivity,"Hyperinsulinism-hyperammonemia syndrome, Familial hyperinsulinemic hypoglycemia type 6",Autosomal Dominant,IEM0165,Urea cycle disorders and inherited hyperammonemias,Intermediary metabolism: Nutrients,15 - 20
+Nonketotic hyperglycinemia due to glycine decarboxylase deficiency,Glycine encephalopathy,Autosomal Recessive,IEM0185,Disorders of glycine and serine metabolism,Intermediary metabolism: Nutrients,10 - 15
+"Methylmalonic aciduria and homocystinuria, cblC type",B12-responsive MMA and homocystinuria,Autosomal Recessive,IEM0213,Disorders of cobalamin metabolism,Cofactor and mineral metabolism,15 - 20
+Methionine synthase reductase deficiency-cblE,"Methylcobalamin deficiency, cblE type, Vitamin B12-responsive homocystinuria, cblE type",Autosomal Recessive,IEM0216,Disorders of cobalamin metabolism,Cofactor and mineral metabolism,15 - 20
+Methionine synthase deficiency,"Homocystinuria-megaloblastic anemia, cblG type",Autosomal Recessive,IEM0217,Disorders of the metabolism of sulfur-containing amino acids and hydrogen sulfide,Intermediary metabolism: Nutrients,15 - 20
+"Methylmalonic aciduria, cblA type","Methylmalonic aciduria, vitamin B12 responsive, cblA type",Autosomal Recessive,IEM0218,Disorders of cobalamin metabolism,Cofactor and mineral metabolism,15 - 20
+"Methylmalonic aciduria, cblB type","Methylmalonic aciduria, vitamin B12 responsive, cblB type",Autosomal Recessive,IEM0219,Disorders of cobalamin metabolism,Cofactor and mineral metabolism,15 - 20
+"5,10-methylenetetrahydrofolate reductase deficiency",Homocystinuria due to deficiency of MTHFR activity,Autosomal Recessive,IEM0223,Disorders of folate metabolism,Cofactor and mineral metabolism,15 - 20
+Formimidoyltransferase cyclodeaminase deficiency,"Forminoglutamic aciduria, Glutamate formimino transferase deficiency",Autosomal Recessive,IEM0226,Disorders of folate metabolism,Cofactor and mineral metabolism,15 - 20
+Biotinidase deficiency,Late Onset Multiple Carboxylase Deficiency,Autosomal Recessive,IEM0227,Disorders of biotin metabolism,Cofactor and mineral metabolism,10 - 15
+Holocarboxylase synthetase deficiency,Infantile Onset Multiple Carboxylase Deficiency,Autosomal Recessive,IEM0228,Disorders of biotin metabolism,Cofactor and mineral metabolism,10 - 15
+Thiamine transporter 2 deficiency,"Wernicke like encephalopathy and BRBG (SLC19A3), Biotin and thiamine basal ganglia disease",Autosomal Recessive,IEM0230,Disorders of thiamine metabolism,Cofactor and mineral metabolism,15 - 20
+Electron transfer flavoprotein Œ± subunit deficiency,"Glutaric aciduria type 2A, Multiple acyl-CoA dehydrogenase deficiency type 2A",Autosomal Recessive,IEM0238,Disorders of mitochondrial fatty acid oxidation,Intermediary metabolism: Nutrients,15 - 20
+Multiple acyl-CoA dehydrogenase deficiency,"Glutaric aciduria type 2C, MAD deficiency",Autosomal Recessive,IEM0240,Disorders of mitochondrial fatty acid oxidation,Intermediary metabolism: Nutrients,15 - 20
+Pyridox(am)ine 5¬¥- phosphate oxidase deficiency,Pyridoxal 5' - phosphate (PLP) dependent seizures,Autosomal Recessive,IEM0250,Disorders of pyridoxine metabolism,Cofactor and mineral metabolism,15 - 20
+Tissue-nonspecific alkaline phosphatase deficiency,"Congenital hypophosphatasia, Phosphoethanolaminuria","Autosomal Dominant, Autosomal Recessive",IEM0252,Disorders of pyridoxine metabolism,Cofactor and mineral metabolism,15 - 20
+Glucose transporter 1 deficiency,GLUT1 deficiency,"Autosomal Dominant, Autosomal Recessive",IEM0314,Disorders of carbohydrate transmembrane transport and absorption,Intermediary metabolism: Nutrients,15 - 20
+"Galactose-1-phosphate uridyltransferase deficiency, GALT-CDG","Classic galactosemia, Galactosemia type 1",Autosomal Recessive,IEM0322,Disorders of galactose and fructose metabolism,Intermediary metabolism: Nutrients,10 - 15
+"Galactose epimerase deficiency, GALE-CDG",Galactosemia type 3,Autosomal Recessive,IEM0323,Disorders of galactose and fructose metabolism,Intermediary metabolism: Nutrients,15 - 20
+"Galactokinase deficiency, GALK1-CDG",Galactosemia type 2,Autosomal Recessive,IEM0324,Disorders of galactose and fructose metabolism,Intermediary metabolism: Nutrients,10 - 15
+"Aldolase B deficiency, ALDOB-CDG","Hereditary fructose intolerance, Fructose-1-phosphate aldolase deficiency",Autosomal Recessive,IEM0326,Disorders of galactose and fructose metabolism,Intermediary metabolism: Nutrients,15 - 20
+ATP-sensitive potassium channel regulatory subunit deficiency,Persistent hyperinsulinemic hypoglycemia of infancy (PHHI),"Autosomal Dominant, Autosomal Recessive",IEM0333,Disorders of insulin metabolism,Metabolic cell signaling,15 - 20
+Hepatic glycogen synthase deficiency,Glycogen storage disease type 0a,Autosomal Recessive,IEM0354,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+"Glucose-6-phosphate transporter deficiency, SLC37A4-CDG",Glycogen storage disease type 1b,Autosomal Recessive,IEM0355,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+Alpha-glucosidase deficiency,"Pompe disease, Glycogen storage disease type II a",Autosomal Recessive,IEM0356,Other disorders of complex molecule degradation,Complex molecule and organelle metabolism,15 - 20
+"Amylo-1,6-glucosidase (debrancher) deficiency","Glycogen storage disease type 3, Cori-Forbes disease; limit dextrinosis",Autosomal Recessive,IEM0357,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+Muscle glycogen phosphorylase deficiency,"Glycogen storage disease type 5, McArdle disease",Autosomal Recessive,IEM0359,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+Liver glycogen phosphorylase deficiency,"Glycogen storage disease type 6, Hers disease",Autosomal Recessive,IEM0360,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+Hepatic phosphorylase kinase Œ±2 subunit deficiency,Glycogen storage disease type 9a,X-linked,IEM0361,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+Phosphorylase kinase Œ≤ subunit deficiency,Glycogen storage disease type 9b,Autosomal Recessive,IEM0362,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+Muscle phosphorylase kinase deficiency,Glycogen storage disease type 9d,Autosomal Recessive,IEM0364,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,15 - 20
+Glucose-6-phosphatase deficiency,"Glycogen storage disease type 1a, von Gierke disease",Autosomal Recessive,IEM0370,Disorders of glycogen metabolism,Intermediary metabolism: Nutrients,10 - 15
+"Fructose-1,6-bisphosphatase deficiency",,Autosomal Recessive,IEM0371,Disorders of gluconeogenesis,Intermediary metabolism: Nutrients,15 - 20
+Pyruvate carboxylase deficiency,,Autosomal Recessive,IEM0372,Disorders of gluconeogenesis,Intermediary metabolism: Nutrients,10 - 15
+Pyruvate dehydrogenase E1 alpha deficiency,,X-linked,IEM0389,Disorders of pyruvate metabolism,Intermediary metabolism: Energy,10 - 15
+ATP-specific succinyl-CoA ligase Œ≤ subunit deficiency,"Mitochondrial DNA depletion syndrome type 5, Encephalomyopathic with or without methylmalonic aciduria",Autosomal Recessive,IEM0399,Disorders of the Krebs cycle,Intermediary metabolism: Energy,10 - 15
+Fumarate hydratase deficiency,"Fumarase deficiency, Fumaric aciduria",Autosomal Recessive,IEM0401,Disorders of the Krebs cycle,Intermediary metabolism: Energy,15 - 20
+L-2-hydroxyglutarate dehydrogenase deficiency,L-2-hydroxyglutaric aciduria,Autosomal Recessive,IEM0405,Disorders of mitochondrial metabolite repair,Intermediary metabolism: Energy,15 - 20
+Cytosolic glycerol-3-phosphate dehydrogenase deficiency,Transient infantile hypertriglyceridemia,Autosomal Recessive,IEM0409,Disorders of mitochondrial shuttles and carriers,Intermediary metabolism: Energy,15 - 20
+Mitochondrial DNA polymerase gamma catalytic subunit deficiency,"Mitochondrial Depletion Syndrome 4A, Alpers-Huttenlocher Syndrome","Autosomal Dominant, Autosomal Recessive",IEM0491,Disorders of mtDNA replication and maintenance,Intermediary metabolism: Energy,15 - 20
+Tafazzin deficiency,Barth syndrome,X-linked,IEM0583,Disorders of mitochondrial membrane biogenesis and remodeling,Complex molecule and organelle metabolism,10 - 15
+Primary carnitine deficiency,Organic cation carnitine transporter 2 deficiency,Autosomal Recessive,IEM0627,Disorders of carnitine metabolism,Intermediary metabolism: Nutrients,10 - 15
+Carnitine palmitoyltransferase 1A deficiency,Carnitine palmitoyl-CoA transferase 1 deficiency,Autosomal Recessive,IEM0628,Disorders of carnitine metabolism,Intermediary metabolism: Nutrients,10 - 15
+Carnitine palmitoyltransferase 2 deficiency,Carnitine palmitoyl-CoA transferase 2 deficiency,Autosomal Recessive,IEM0629,Disorders of carnitine metabolism,Intermediary metabolism: Nutrients,15 - 20
+Short-chain acyl CoA dehydrogenase deficiency,Ethylmalonic aciduria,Autosomal Recessive,IEM0632,Disorders of mitochondrial fatty acid oxidation,Intermediary metabolism: Nutrients,15 - 20
+Medium-chain acyl CoA dehydrogenase deficiency,,Autosomal Recessive,IEM0633,Disorders of mitochondrial fatty acid oxidation,Intermediary metabolism: Nutrients,15 - 20
+Very long-chain acyl CoA dehydrogenase deficiency,,Autosomal Recessive,IEM0634,Disorders of mitochondrial fatty acid oxidation,Intermediary metabolism: Nutrients,15 - 20
+Isolated deficiency of long-chain 3-hydroxyacyl-CoA dehydrogenase,,Autosomal Recessive,IEM0636,Disorders of mitochondrial fatty acid oxidation,Intermediary metabolism: Nutrients,15 - 20
+Trifunctional protein subunit Œ≤ deficiency,Long-chain hydroxyacyl-CoA dehydrogenase or complete mitochondrial trifunctional protein deficiency,Autosomal Recessive,IEM0637,Disorders of mitochondrial fatty acid oxidation,Intermediary metabolism: Nutrients,15 - 20
+3-Hydroxy-3-methylglutaryl-CoA synthase deficiency,"Mitochondrial 3-Hydroxy-3-methylglutaryl-CoA synthase deficiency, HMG-CoA synthase deficiency",Autosomal Recessive,IEM0641,Disorders of ketone body metabolism,Intermediary metabolism: Nutrients,15 - 20
+Succinyl-CoA:3-oxoacid CoA transferase deficiency,"Succinyl-CoA:3-ketoacid CoA transferase deficiency, Succinyl-CoA:acetoacetate CoA transferase deficiency",Autosomal Recessive,IEM0642,Disorders of ketone body metabolism,Intermediary metabolism: Nutrients,10 - 15
+Mitochondrial acetoacetyl-CoA thiolase deficiency,"Beta-ketothiolase T2 deficiency, Œ±-methylacetoacetic aciduria",Autosomal Recessive,IEM0643,Disorders of ketone body metabolism,Intermediary metabolism: Nutrients,10 - 15
+Lipoprotein lipase deficiency (LPL),"Hyperlipoproteinemia type 1, familial hyperchylomicronemia",Autosomal Recessive,IEM0728,Hypertriglyceridemias,Lipid metabolism and transport,15 - 20
+Tangier disease (ABCA1),Primary familial hypoalphalipoproteinemia,Autosomal Recessive,IEM0735,Disorders of high-density lipoprotein (HDL) metabolism,Lipid metabolism and transport,15 - 20
+Mevalonate kinase deficiency (mild),"Hyper Ig D syndrome, Mevalonic aciduria",Autosomal Recessive,IEM0740,Disorders of sterol biosynthesis,Lipid metabolism and transport,10 - 15
+Smith-Lemli-Opitz syndrome,"7-dehydrocholesterol reductase deficiency, DHCR7 deficiency",Autosomal Recessive,IEM0753,Disorders of sterol biosynthesis,Lipid metabolism and transport,15 - 20
+Sterol 27-hydroxylase deficiency,"Cerebrotendinous Xanthomatosis, Van Bogaert-Scherer-Epstein disease",Autosomal Recessive,IEM0782,Disorders of bile acid metabolism,Lipid metabolism and transport,15 - 20
+Porphobilinogen deaminase deficiency,"Acute intermittent porphyria, Hydroxymethylbilane synthase deficiency","Autosomal Dominant, Autosomal Recessive",IEM0789,Disorders of heme synthesis and porphyrias,Metabolism of heterocyclic compounds,15 - 20
+Protoporphyrinogen oxidase deficiency,"Porphyria variegata, South African porphyria",Autosomal Dominant,IEM0794,Disorders of heme synthesis and porphyrias,Metabolism of heterocyclic compounds,15 - 20
+Acid sphingomyelinase deficiency,"Niemann-Pick type A (severe),  Niemann-Pick type B (milder)",Autosomal Recessive,IEM0834,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+"Beta-galactosidase 1 deficiency, Morquio B","Morquio syndrome type B, Mucopolysaccharidosis type IVB variant",Autosomal Recessive,IEM0835,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+Beta-hexosaminidase subunit alpha deficiency,"Tay-Sachs disease,  GM2-gangliosidosis B-variant, Hexosaminidase A deficiency",Autosomal Recessive,IEM0836,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+Beta-hexosaminidase subunit beta deficiency,"Sandhoff disease,  GM2-gangliosidosis O-variant, Hexosaminidase A and B deficiency",Autosomal Recessive,IEM0837,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+Beta-galactosylceramidase deficiency,"Krabbe disease,  Globoid cell leukodystrophy, Galactocerebrosidase deficiency",Autosomal Recessive,IEM0839,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+Arylsulfatase A deficiency,Metachromatic leukodystrophy,Autosomal Recessive,IEM0841,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+Alpha-galactosidase A deficiency,"Fabry disease, Angiokeratoma corporis diffusum",X-linked,IEM0844,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+UDP-N-acetylglucosamine-1-phosphotransferase subunit alpha/beta deficiency,"Mucolipidosis II alpha-beta, I-cell disease",Autosomal Recessive,IEM0855,Other disorders of complex molecule degradation,Complex molecule and organelle metabolism,15 - 20
+Alpha-iduronidase deficiency,"Mucopolysaccharidosis type 1H, Hurler syndrome (severe), Mucopolysaccharidosis type 1S, Scheie syndrome (milder)",Autosomal Recessive,IEM0858,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+Iduronate 2-sulfatase deficiency,"Hunter disease, Mucopolysaccharidosis type 2",X-linked,IEM0859,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+Heparan N-sulfatase deficiency,"Sanfilippo A disease, Mucopolysaccharidosis type 3A",Autosomal Recessive,IEM0860,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+N-acetylglucosaminidase deficiency,"Sanfilippo B disease, Mucopolysaccharidosis type 3B",Autosomal Recessive,IEM0861,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+Heparan-alpha-glucosaminide N-acetyltransferase deficiency,"Sanfilippo syndrome type C (severe), retinitis pigmentosa type 73 (milder), Mucopolysaccharidosis type 3C",Autosomal Recessive,IEM0862,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+N-acetylglucosamine 6-sulfatase deficiency,"Sanfilippo D disease, Mucopolysaccharidosis type 3D",Autosomal Recessive,IEM0863,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+N-acetylgalactosamine 6-sulfatase deficiency,"Morquio A disease, Mucopolysaccharidosis type 4A",Autosomal Recessive,IEM0864,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+"Beta-galactosidase-1 deficiency, GM1 gangliosis",,Autosomal Recessive,IEM0865,Disorders of sphingolipid degradation,Complex molecule and organelle metabolism,15 - 20
+Beta-glucuronidase deficiency,"Sly disease, Mucopolysaccharidosis type 7",Autosomal Recessive,IEM0867,Disorders of glycosaminoglycan degradation,Complex molecule and organelle metabolism,15 - 20
+Niemann-Pick disease type C1,,Autosomal Recessive,IEM0870,Other disorders of complex molecule degradation,Complex molecule and organelle metabolism,15 - 20
+Lysosomal acid lipase deficiency,"Wolman disease, Cholesteryl ester storage disease (CESD)",Autosomal Recessive,IEM0872,Other disorders of complex molecule degradation,Complex molecule and organelle metabolism,15 - 20
+Nephropathic cystinosis,Juvenile cystinosis,Autosomal Recessive,IEM0873,Disorders of amino acid transport,Intermediary metabolism: Nutrients,15 - 20
+Sialin deficiency (severe),"Infantile sialic acid storage disease, Salla disease",Autosomal Recessive,IEM0874,Disorders of carbohydrate transmembrane transport and absorption,Intermediary metabolism: Nutrients,10 - 15
+X-linked adrenoleukodystrophy and adrenomyeloneuropathy,,X-linked,IEM0883,Disorders of peroxisomal fatty acid oxidation,Lipid metabolism and transport,15 - 20
+Phytanoyl-CoA hydroxylase deficiency,Classic Refsum disease,Autosomal Recessive,IEM0888,Disorders of peroxisomal fatty acid oxidation,Lipid metabolism and transport,15 - 20
+Alanine-glyoxylate aminotransferase deficiency (peroxisomal),"Primary hyperoxaluria type 1, AGT",Autosomal Recessive,IEM0903,Disorders of glyoxylate and oxalate metabolism,Intermediary metabolism: Other,10 - 15
+PMM2-CDG,"Phosphomannomutase 2 deficiency, CDG-Ia",Autosomal Recessive,IEM0908,Disorders of N-linked protein glycosylation,Complex molecule and organelle metabolism,15 - 20
+ALG6-CDG,"Glucosyltransferase 1 deficiency, CDG-Ic",Autosomal Recessive,IEM0921,Disorders of N-linked protein glycosylation,Complex molecule and organelle metabolism,15 - 20
