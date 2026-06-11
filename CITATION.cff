@@ -1,0 +1,189 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Clinical Study Optimisation"
+abstract: "Optimisation framework for recruitment and sample allocation in multi-site rare disease studies."
+type: software
+authors:
+  - family-names: Zare
+    given-names: Farid
+  - family-names: Clancy
+    given-names: Catherine
+  - family-names: Dattner
+    given-names: Tal
+  - family-names: Messina
+    given-names: Martina
+  - family-names: Teinert
+    given-names: Julian
+  - family-names: Jesina
+    given-names: Pavel
+  - family-names: Weller Grønborg
+    given-names: Sabine
+  - family-names: Spiekerkoetter
+    given-names: Ute
+  - family-names: O'Byrne
+    given-names: James J
+  - family-names: Tangeraas
+    given-names: Trine
+  - family-names: Couce
+    given-names: Maria Luz
+  - family-names: Cocho
+    given-names: José A.
+  - family-names: de las Heras
+    given-names: Javier
+  - family-names: Darin
+    given-names: Niklas
+  - family-names: Möslinger
+    given-names: Dorothea
+  - family-names: Witters
+    given-names: Peter
+  - family-names: Knerr
+    given-names: Ina
+  - family-names: La Marca
+    given-names: Giancarlo
+  - family-names: van der Ploeg
+    given-names: Ans T.
+  - family-names: Huidekoper
+    given-names: Hidde H.
+  - family-names: Derks
+    given-names: Terry G. J.
+  - family-names: van Spronsen
+    given-names: Francjan J.
+  - family-names: Kingma
+    given-names: Sandra D.K.
+  - family-names: Das
+    given-names: Anibh M.
+  - family-names: Dionisi-Vici
+    given-names: Carlo
+  - family-names: van Karnebeek
+    given-names: Clara D.
+  - family-names: Hennermann
+    given-names: Julia B.
+  - family-names: O'Sullivan
+    given-names: Siobhán
+  - family-names: Fuchs
+    given-names: Sabine A.
+  - family-names: Hannibal
+    given-names: Luciana
+  - family-names: Heiner-Fokkema
+    given-names: M. Rebecca
+  - family-names: Noga
+    given-names: Marek J.
+  - family-names: Prestø Elgstøen
+    given-names: Katja Benedikte
+  - family-names: Ruijter
+    given-names: George J.G.
+  - family-names: Jans
+    given-names: J J M
+  - family-names: Harms
+    given-names: Amy
+  - family-names: Hankemier
+    given-names: Thomas
+  - family-names: Scarpa
+    given-names: Maurizio
+  - family-names: Thiele
+    given-names: Ines
+  - family-names: Rahman
+    given-names: Shamima
+  - family-names: Kölker
+    given-names: Stefan
+  - family-names: Fleming
+    given-names: Ronan M.T.
+repository-code: "https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation"
+url: "https://github.com/Digital-Metabolic-Twin-Centre/clinical-study-optimisation"
+license: MIT
+keywords:
+  - rare disease
+  - clinical study design
+  - patient recruitment
+  - sample allocation
+  - optimization
+preferred-citation:
+  type: article
+  title: "Optimising Recruitment and Sample Allocation in Multi-Site Rare Disease Studies"
+  journal: "npj Digital Medicine"
+  authors:
+    - family-names: Zare
+      given-names: Farid
+    - family-names: Clancy
+      given-names: Catherine
+    - family-names: Dattner
+      given-names: Tal
+    - family-names: Messina
+      given-names: Martina
+    - family-names: Teinert
+      given-names: Julian
+    - family-names: Jesina
+      given-names: Pavel
+    - family-names: Weller Grønborg
+      given-names: Sabine
+    - family-names: Spiekerkoetter
+      given-names: Ute
+    - family-names: O'Byrne
+      given-names: James J
+    - family-names: Tangeraas
+      given-names: Trine
+    - family-names: Couce
+      given-names: Maria Luz
+    - family-names: Cocho
+      given-names: José A.
+    - family-names: de las Heras
+      given-names: Javier
+    - family-names: Darin
+      given-names: Niklas
+    - family-names: Möslinger
+      given-names: Dorothea
+    - family-names: Witters
+      given-names: Peter
+    - family-names: Knerr
+      given-names: Ina
+    - family-names: La Marca
+      given-names: Giancarlo
+    - family-names: van der Ploeg
+      given-names: Ans T.
+    - family-names: Huidekoper
+      given-names: Hidde H.
+    - family-names: Derks
+      given-names: Terry G. J.
+    - family-names: van Spronsen
+      given-names: Francjan J.
+    - family-names: Kingma
+      given-names: Sandra D.K.
+    - family-names: Das
+      given-names: Anibh M.
+    - family-names: Dionisi-Vici
+      given-names: Carlo
+    - family-names: van Karnebeek
+      given-names: Clara D.
+    - family-names: Hennermann
+      given-names: Julia B.
+    - family-names: O'Sullivan
+      given-names: Siobhán
+    - family-names: Fuchs
+      given-names: Sabine A.
+    - family-names: Hannibal
+      given-names: Luciana
+    - family-names: Heiner-Fokkema
+      given-names: M. Rebecca
+    - family-names: Noga
+      given-names: Marek J.
+    - family-names: Prestø Elgstøen
+      given-names: Katja Benedikte
+    - family-names: Ruijter
+      given-names: George J.G.
+    - family-names: Jans
+      given-names: J J M
+    - family-names: Harms
+      given-names: Amy
+    - family-names: Hankemier
+      given-names: Thomas
+    - family-names: Scarpa
+      given-names: Maurizio
+    - family-names: Thiele
+      given-names: Ines
+    - family-names: Rahman
+      given-names: Shamima
+    - family-names: Kölker
+      given-names: Stefan
+    - family-names: Fleming
+      given-names: Ronan M.T.
+  notes: "Manuscript currently under review in npj Digital Medicine; year/volume/pages/DOI to be added after acceptance and publication."

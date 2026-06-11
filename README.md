@@ -2,12 +2,10 @@
 
 **Optimising Recruitment and Sample Allocation in Multi-Site Rare Disease Studies**
 
-This repository contains the full implementation of the optimisation framework described in the manuscript:
+This repository contains the full implementation of the optimisation framework described in the manuscript currently under review in *npj Digital Medicine*:
 
 > *Optimising Recruitment and Sample Allocation in Multi-Site Rare Disease Studies*  
-> Farid Zare¹², Ronan M.T. Fleming¹²  
-> ¹School of Medicine, University of Galway, Ireland  
-> ²Digital Metabolic Twin Centre, University of Galway, Ireland  
+> Current author list is maintained in `CITATION.cff`.
 
 ---
 
@@ -27,6 +25,7 @@ The framework uses **cardinality-constrained optimisation** to ensure transparen
 
 ## 📁 Repository Contents
 - data (Containing actual and noised data)
+- data/csv_formats (CSV exports of core datasets for interoperability)
 - graphics
 - results
 - An end-to-end MATLAB live script which produces all the examples and figures in the paper
@@ -103,3 +102,15 @@ open('recruitmentStrategyLiveScript.mlx')
 ```
 
 Then click **Run All** to execute the entire analysis. This will generate all the results and figures presented in the paper.
+
+---
+
+## FAIR Metadata
+
+- **License**: This repository is released under the MIT License (see `LICENSE`).
+- **Citation**: Citation metadata is provided in `CITATION.cff`.
+- **Dataset metadata records**: Pre-populated metadata for each dataset file is available at `data/metadata.yaml`.
+- **Dataset metadata template**: The reusable template is available at `data/metadata_template.yaml`.
+- **Interoperable formats**: CSV exports for all primary datasets are available in `data/csv_formats/`.
+
+For best reuse, duplicate and complete one metadata block per dataset in `data/`.
