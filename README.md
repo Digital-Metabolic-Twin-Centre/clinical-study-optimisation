@@ -98,7 +98,7 @@ cd('clinical_study_optimisation/src')
 Launch the live script to run the full pipeline and reproduce results:
 
 ```matlab
-open('recruitmentStrategyLiveScript.mlx')
+open('recruitmentStrategyLiveScript.m')
 ```
 
 Then click **Run All** to execute the entire analysis. This will generate all the results and figures presented in the paper.
