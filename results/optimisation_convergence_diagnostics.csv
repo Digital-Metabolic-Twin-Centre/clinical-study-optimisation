@@ -1,0 +1,6 @@
+model_context,number_decision_variables,number_equality_constraints,number_inequality_constraints,number_bound_constraints,number_objective_variables,degrees_of_freedom,solving_time_seconds,solver_name,solver_status,stopping_criterion,number_cardinality_iterations,final_objective_value,final_relative_objective_change,maximum_feasibility_residual,mip_gap
+Clinical recruitment,6443,3299,0,12886,3144,3144,0.049704,gurobi,1,not returned,NaN,426.466854146015,NaN,0,N/A
++Sample allocation,32656,27809,48994,65312,4847,4847,0.103039,gurobi,1,not returned,NaN,805.045337389515,NaN,0,N/A
++Omics analysis cost,32918,28071,48994,65836,5254,4847,0.095616,gurobi,1,not returned,NaN,5885.85231491499,NaN,0,N/A
++Clinical interest,32918,28071,48994,65836,5254,4847,0.091772,gurobi,1,not returned,NaN,-665.556710270937,NaN,0,N/A
++Collaboration logistics,34359,28071,51876,68718,6681,6288,0.239911,gurobi,1,not returned,NaN,484666.843705449,NaN,0,N/A
