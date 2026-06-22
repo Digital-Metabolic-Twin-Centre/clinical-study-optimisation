@@ -16,7 +16,7 @@ function writeDiagnosticsLatexTable(T, texPath)
     fid = fopen(texPath, 'w');
     cleaner = onCleanup(@() fclose(fid));
 
-    fprintf(fid, '\\begin{tabular}{llllllllllllllll}\n');
+    fprintf(fid, '\\begin{tabular}{%s}\n', repmat('l', 1, width(T)));
     fprintf(fid, '\\hline\n');
     fprintf(fid, '%s \\\\\n', strjoin(escapeLatex(T.Properties.VariableNames), ' & '));
     fprintf(fid, '\\hline\n');
