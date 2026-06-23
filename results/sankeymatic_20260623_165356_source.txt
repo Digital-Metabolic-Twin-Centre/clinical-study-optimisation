@@ -1,0 +1,806 @@
+// SankeyMATIC diagram inputs - Saved: 23/06/2026, 16:53:56
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+// Enter Flows between Nodes, like this:
+//         Source [AMOUNT] Target
+Cofactor and\nmineral metabolism [13.0] HCP 1 #1f77b4
+Cofactor and\nmineral metabolism [1.0] HCP 10 #1f77b4
+Cofactor and\nmineral metabolism [8.0] HCP 12 #1f77b4
+Cofactor and\nmineral metabolism [8.0] HCP 13 #1f77b4
+Cofactor and\nmineral metabolism [3.0] HCP 14 #1f77b4
+Cofactor and\nmineral metabolism [6.0] HCP 15 #1f77b4
+Cofactor and\nmineral metabolism [3.0] HCP 16 #1f77b4
+Cofactor and\nmineral metabolism [8.0] HCP 17 #1f77b4
+Cofactor and\nmineral metabolism [14.0] HCP 18 #1f77b4
+Cofactor and\nmineral metabolism [3.0] HCP 2 #1f77b4
+Cofactor and\nmineral metabolism [12.0] HCP 20 #1f77b4
+Cofactor and\nmineral metabolism [3.0] HCP 22 #1f77b4
+Cofactor and\nmineral metabolism [6.0] HCP 23 #1f77b4
+Cofactor and\nmineral metabolism [4.0] HCP 24 #1f77b4
+Cofactor and\nmineral metabolism [4.0] HCP 3 #1f77b4
+Cofactor and\nmineral metabolism [1.0] HCP 4 #1f77b4
+Cofactor and\nmineral metabolism [1.0] HCP 5 #1f77b4
+Cofactor and\nmineral metabolism [3.0] HCP 7 #1f77b4
+Cofactor and\nmineral metabolism [1.0] HCP 8 #1f77b4
+Cofactor and\nmineral metabolism [10.0] HCP 9 #1f77b4
+Complex molecule\nand organelle metabolism [3.0] HCP 1 #ff7f0e
+Complex molecule\nand organelle metabolism [3.0] HCP 10 #ff7f0e
+Complex molecule\nand organelle metabolism [21.0] HCP 11 #ff7f0e
+Complex molecule\nand organelle metabolism [8.0] HCP 13 #ff7f0e
+Complex molecule\nand organelle metabolism [2.0] HCP 14 #ff7f0e
+Complex molecule\nand organelle metabolism [9.0] HCP 15 #ff7f0e
+Complex molecule\nand organelle metabolism [3.0] HCP 16 #ff7f0e
+Complex molecule\nand organelle metabolism [23.0] HCP 17 #ff7f0e
+Complex molecule\nand organelle metabolism [7.0] HCP 18 #ff7f0e
+Complex molecule\nand organelle metabolism [34.0] HCP 2 #ff7f0e
+Complex molecule\nand organelle metabolism [14.0] HCP 20 #ff7f0e
+Complex molecule\nand organelle metabolism [1.0] HCP 21 #ff7f0e
+Complex molecule\nand organelle metabolism [4.0] HCP 22 #ff7f0e
+Complex molecule\nand organelle metabolism [2.0] HCP 23 #ff7f0e
+Complex molecule\nand organelle metabolism [1.0] HCP 24 #ff7f0e
+Complex molecule\nand organelle metabolism [6.0] HCP 3 #ff7f0e
+Complex molecule\nand organelle metabolism [5.0] HCP 4 #ff7f0e
+Complex molecule\nand organelle metabolism [1.0] HCP 5 #ff7f0e
+Complex molecule\nand organelle metabolism [3.0] HCP 6 #ff7f0e
+Complex molecule\nand organelle metabolism [9.0] HCP 7 #ff7f0e
+Complex molecule\nand organelle metabolism [3.0] HCP 8 #ff7f0e
+Complex molecule\nand organelle metabolism [15.0] HCP 9 #ff7f0e
+Intermediary\nmetabolism: Energy [3.0] HCP 12 #d62728
+Intermediary\nmetabolism: Energy [1.0] HCP 16 #d62728
+Intermediary\nmetabolism: Energy [5.0] HCP 17 #d62728
+Intermediary\nmetabolism: Energy [9.0] HCP 18 #d62728
+Intermediary\nmetabolism: Energy [1.0] HCP 19 #d62728
+Intermediary\nmetabolism: Energy [2.0] HCP 2 #d62728
+Intermediary\nmetabolism: Energy [11.0] HCP 20 #d62728
+Intermediary\nmetabolism: Energy [1.0] HCP 21 #d62728
+Intermediary\nmetabolism: Energy [4.0] HCP 23 #d62728
+Intermediary\nmetabolism: Energy [6.0] HCP 3 #d62728
+Intermediary\nmetabolism: Energy [3.0] HCP 4 #d62728
+Intermediary\nmetabolism: Energy [3.0] HCP 5 #d62728
+Intermediary\nmetabolism: Energy [6.0] HCP 7 #d62728
+Intermediary\nmetabolism: Energy [5.0] HCP 9 #d62728
+Intermediary\nmetabolism: Nutrients [8.0] HCP 1 #9467bd
+Intermediary\nmetabolism: Nutrients [12.0] HCP 10 #9467bd
+Intermediary\nmetabolism: Nutrients [15.0] HCP 11 #9467bd
+Intermediary\nmetabolism: Nutrients [29.0] HCP 12 #9467bd
+Intermediary\nmetabolism: Nutrients [22.0] HCP 13 #9467bd
+Intermediary\nmetabolism: Nutrients [31.0] HCP 14 #9467bd
+Intermediary\nmetabolism: Nutrients [21.0] HCP 15 #9467bd
+Intermediary\nmetabolism: Nutrients [19.0] HCP 16 #9467bd
+Intermediary\nmetabolism: Nutrients [1.0] HCP 17 #9467bd
+Intermediary\nmetabolism: Nutrients [28.0] HCP 18 #9467bd
+Intermediary\nmetabolism: Nutrients [8.0] HCP 19 #9467bd
+Intermediary\nmetabolism: Nutrients [18.0] HCP 2 #9467bd
+Intermediary\nmetabolism: Nutrients [48.0] HCP 20 #9467bd
+Intermediary\nmetabolism: Nutrients [8.0] HCP 21 #9467bd
+Intermediary\nmetabolism: Nutrients [23.0] HCP 22 #9467bd
+Intermediary\nmetabolism: Nutrients [10.0] HCP 23 #9467bd
+Intermediary\nmetabolism: Nutrients [17.0] HCP 24 #9467bd
+Intermediary\nmetabolism: Nutrients [16.0] HCP 3 #9467bd
+Intermediary\nmetabolism: Nutrients [6.0] HCP 4 #9467bd
+Intermediary\nmetabolism: Nutrients [24.0] HCP 5 #9467bd
+Intermediary\nmetabolism: Nutrients [19.0] HCP 6 #9467bd
+Intermediary\nmetabolism: Nutrients [16.0] HCP 7 #9467bd
+Intermediary\nmetabolism: Nutrients [16.0] HCP 8 #9467bd
+Intermediary\nmetabolism: Nutrients [5.0] HCP 9 #9467bd
+Intermediary\nmetabolism: Other [2.0] HCP 11 #8c564b
+Intermediary\nmetabolism: Other [1.0] HCP 14 #8c564b
+Intermediary\nmetabolism: Other [2.0] HCP 18 #8c564b
+Intermediary\nmetabolism: Other [3.0] HCP 2 #8c564b
+Intermediary\nmetabolism: Other [2.0] HCP 20 #8c564b
+Intermediary\nmetabolism: Other [1.0] HCP 23 #8c564b
+Intermediary\nmetabolism: Other [5.0] HCP 24 #8c564b
+Intermediary\nmetabolism: Other [6.0] HCP 7 #8c564b
+Lipid metabolism\nand transport [3.0] HCP 14 #e377c2
+Lipid metabolism\nand transport [3.0] HCP 17 #e377c2
+Lipid metabolism\nand transport [4.0] HCP 18 #e377c2
+Lipid metabolism\nand transport [1.0] HCP 19 #e377c2
+Lipid metabolism\nand transport [6.0] HCP 2 #e377c2
+Lipid metabolism\nand transport [17.0] HCP 20 #e377c2
+Lipid metabolism\nand transport [5.0] HCP 22 #e377c2
+Lipid metabolism\nand transport [5.0] HCP 24 #e377c2
+Lipid metabolism\nand transport [2.0] HCP 3 #e377c2
+Lipid metabolism\nand transport [1.0] HCP 6 #e377c2
+Lipid metabolism\nand transport [5.0] HCP 9 #e377c2
+Metabolic\ncell signaling [1.0] HCP 11 #7f7f7f
+Metabolic\ncell signaling [4.0] HCP 15 #7f7f7f
+Metabolic\ncell signaling [2.0] HCP 18 #7f7f7f
+Metabolic\ncell signaling [1.0] HCP 20 #7f7f7f
+Metabolic\ncell signaling [6.0] HCP 3 #7f7f7f
+Metabolic\ncell signaling [1.0] HCP 4 #7f7f7f
+Metabolic\ncell signaling [1.0] HCP 5 #7f7f7f
+Metabolism of\nheterocyclic compounds [1.0] HCP 18 #bcbd22
+Metabolism of\nheterocyclic compounds [1.0] HCP 2 #bcbd22
+Metabolism of\nheterocyclic compounds [1.0] HCP 20 #bcbd22
+Metabolism of\nheterocyclic compounds [5.0] HCP 22 #bcbd22
+Metabolism of\nheterocyclic compounds [4.0] HCP 23 #bcbd22
+Metabolism of\nheterocyclic compounds [8.0] HCP 24 #bcbd22
+Metabolism of\nheterocyclic compounds [1.0] HCP 6 #bcbd22
+Metabolism of\nheterocyclic compounds [1.0] HCP 8 #bcbd22
+
+
+HCP 1 [1.0] Targeted Platform 1 #1f77b4
+HCP 1 [2.0] Targeted Platform 1 #9467bd
+HCP 1 [13.0] Targeted Platform 3 #1f77b4
+HCP 1 [5.0] Targeted Platform 3 #9467bd
+HCP 1 [3.0] Targeted Platform 3 #ff7f0e
+HCP 1 [1.0] Targeted Platform 5 #9467bd
+HCP 1 [3.0] Targeted Platform 5 #ff7f0e
+HCP 1 [3.0] Targeted Platform 6 #9467bd
+HCP 10 [2.0] Targeted Platform 1 #9467bd
+HCP 10 [2.0] Targeted Platform 3 #1f77b4
+HCP 10 [2.0] Targeted Platform 3 #9467bd
+HCP 10 [1.0] Targeted Platform 5 #9467bd
+HCP 10 [16.0] Targeted Platform 6 #9467bd
+HCP 10 [3.0] Targeted Platform 6 #ff7f0e
+HCP 11 [4.0] Targeted Platform 3 #8c564b
+HCP 11 [10.0] Targeted Platform 3 #9467bd
+HCP 11 [15.0] Targeted Platform 3 #ff7f0e
+HCP 11 [4.0] Targeted Platform 4 #9467bd
+HCP 11 [1.0] Targeted Platform 5 #7f7f7f
+HCP 11 [3.0] Targeted Platform 5 #9467bd
+HCP 11 [9.0] Targeted Platform 5 #ff7f0e
+HCP 11 [4.0] Targeted Platform 6 #9467bd
+HCP 11 [6.0] Targeted Platform 6 #ff7f0e
+HCP 12 [5.0] Targeted Platform 3 #1f77b4
+HCP 12 [18.0] Targeted Platform 3 #9467bd
+HCP 12 [3.0] Targeted Platform 4 #1f77b4
+HCP 12 [3.0] Targeted Platform 4 #d62728
+HCP 12 [14.0] Targeted Platform 5 #9467bd
+HCP 13 [1.0] Targeted Platform 1 #1f77b4
+HCP 13 [15.0] Targeted Platform 3 #1f77b4
+HCP 13 [14.0] Targeted Platform 3 #9467bd
+HCP 13 [1.0] Targeted Platform 3 #ff7f0e
+HCP 13 [17.0] Targeted Platform 5 #9467bd
+HCP 13 [1.0] Targeted Platform 5 #ff7f0e
+HCP 13 [7.0] Targeted Platform 6 #ff7f0e
+HCP 14 [2.0] Targeted Platform 1 #1f77b4
+HCP 14 [2.0] Targeted Platform 1 #8c564b
+HCP 14 [1.0] Targeted Platform 1 #9467bd
+HCP 14 [3.0] Targeted Platform 3 #1f77b4
+HCP 14 [13.0] Targeted Platform 3 #9467bd
+HCP 14 [1.0] Targeted Platform 3 #e377c2
+HCP 14 [2.0] Targeted Platform 3 #ff7f0e
+HCP 14 [1.0] Targeted Platform 4 #9467bd
+HCP 14 [13.0] Targeted Platform 5 #9467bd
+HCP 14 [8.0] Targeted Platform 6 #9467bd
+HCP 14 [2.0] Targeted Platform 6 #e377c2
+HCP 15 [1.0] Targeted Platform 1 #9467bd
+HCP 15 [4.0] Targeted Platform 3 #1f77b4
+HCP 15 [4.0] Targeted Platform 3 #7f7f7f
+HCP 15 [13.0] Targeted Platform 3 #9467bd
+HCP 15 [4.0] Targeted Platform 3 #ff7f0e
+HCP 15 [2.0] Targeted Platform 4 #1f77b4
+HCP 15 [8.0] Targeted Platform 5 #9467bd
+HCP 15 [5.0] Targeted Platform 5 #ff7f0e
+HCP 15 [2.0] Targeted Platform 6 #ff7f0e
+HCP 16 [2.0] Targeted Platform 3 #1f77b4
+HCP 16 [17.0] Targeted Platform 3 #9467bd
+HCP 16 [1.0] Targeted Platform 3 #d62728
+HCP 16 [2.0] Targeted Platform 3 #ff7f0e
+HCP 16 [1.0] Targeted Platform 4 #1f77b4
+HCP 16 [1.0] Targeted Platform 5 #ff7f0e
+HCP 16 [8.0] Targeted Platform 6 #9467bd
+HCP 16 [1.0] Targeted Platform 6 #ff7f0e
+HCP 17 [3.0] Targeted Platform 1 #d62728
+HCP 17 [6.0] Targeted Platform 3 #1f77b4
+HCP 17 [1.0] Targeted Platform 3 #9467bd
+HCP 17 [3.0] Targeted Platform 3 #e377c2
+HCP 17 [17.0] Targeted Platform 3 #ff7f0e
+HCP 17 [4.0] Targeted Platform 5 #1f77b4
+HCP 17 [2.0] Targeted Platform 5 #d62728
+HCP 17 [11.0] Targeted Platform 5 #ff7f0e
+HCP 17 [4.0] Targeted Platform 6 #1f77b4
+HCP 18 [2.0] Targeted Platform 1 #1f77b4
+HCP 18 [1.0] Targeted Platform 2 #8c564b
+HCP 18 [15.0] Targeted Platform 3 #1f77b4
+HCP 18 [14.0] Targeted Platform 3 #9467bd
+HCP 18 [1.0] Targeted Platform 3 #bcbd22
+HCP 18 [10.0] Targeted Platform 3 #d62728
+HCP 18 [4.0] Targeted Platform 3 #e377c2
+HCP 18 [2.0] Targeted Platform 3 #ff7f0e
+HCP 18 [6.0] Targeted Platform 4 #9467bd
+HCP 18 [2.0] Targeted Platform 5 #1f77b4
+HCP 18 [2.0] Targeted Platform 5 #7f7f7f
+HCP 18 [1.0] Targeted Platform 5 #8c564b
+HCP 18 [6.0] Targeted Platform 5 #9467bd
+HCP 18 [1.0] Targeted Platform 5 #bcbd22
+HCP 18 [3.0] Targeted Platform 5 #d62728
+HCP 18 [1.0] Targeted Platform 5 #ff7f0e
+HCP 18 [7.0] Targeted Platform 6 #9467bd
+HCP 18 [5.0] Targeted Platform 6 #ff7f0e
+HCP 19 [2.0] Targeted Platform 1 #e377c2
+HCP 19 [4.0] Targeted Platform 3 #9467bd
+HCP 19 [2.0] Targeted Platform 5 #9467bd
+HCP 19 [1.0] Targeted Platform 5 #d62728
+HCP 19 [3.0] Targeted Platform 6 #9467bd
+HCP 2 [4.0] Targeted Platform 1 #8c564b
+HCP 2 [2.0] Targeted Platform 1 #9467bd
+HCP 2 [4.0] Targeted Platform 1 #e377c2
+HCP 2 [4.0] Targeted Platform 3 #1f77b4
+HCP 2 [14.0] Targeted Platform 3 #9467bd
+HCP 2 [3.0] Targeted Platform 3 #e377c2
+HCP 2 [24.0] Targeted Platform 3 #ff7f0e
+HCP 2 [2.0] Targeted Platform 4 #d62728
+HCP 2 [1.0] Targeted Platform 5 #8c564b
+HCP 2 [5.0] Targeted Platform 5 #9467bd
+HCP 2 [9.0] Targeted Platform 5 #ff7f0e
+HCP 2 [2.0] Targeted Platform 6 #9467bd
+HCP 2 [1.0] Targeted Platform 6 #bcbd22
+HCP 2 [1.0] Targeted Platform 6 #e377c2
+HCP 2 [9.0] Targeted Platform 6 #ff7f0e
+HCP 20 [1.0] Targeted Platform 1 #9467bd
+HCP 20 [2.0] Targeted Platform 1 #d62728
+HCP 20 [1.0] Targeted Platform 2 #8c564b
+HCP 20 [10.0] Targeted Platform 3 #1f77b4
+HCP 20 [1.0] Targeted Platform 3 #7f7f7f
+HCP 20 [33.0] Targeted Platform 3 #9467bd
+HCP 20 [8.0] Targeted Platform 3 #d62728
+HCP 20 [11.0] Targeted Platform 3 #e377c2
+HCP 20 [3.0] Targeted Platform 3 #ff7f0e
+HCP 20 [1.0] Targeted Platform 4 #1f77b4
+HCP 20 [1.0] Targeted Platform 4 #bcbd22
+HCP 20 [1.0] Targeted Platform 4 #d62728
+HCP 20 [4.0] Targeted Platform 4 #ff7f0e
+HCP 20 [1.0] Targeted Platform 5 #8c564b
+HCP 20 [9.0] Targeted Platform 5 #9467bd
+HCP 20 [3.0] Targeted Platform 5 #d62728
+HCP 20 [14.0] Targeted Platform 5 #e377c2
+HCP 20 [7.0] Targeted Platform 5 #ff7f0e
+HCP 20 [2.0] Targeted Platform 6 #1f77b4
+HCP 20 [10.0] Targeted Platform 6 #9467bd
+HCP 20 [2.0] Targeted Platform 6 #e377c2
+HCP 20 [1.0] Targeted Platform 6 #ff7f0e
+HCP 21 [2.0] Targeted Platform 1 #9467bd
+HCP 21 [2.0] Targeted Platform 1 #d62728
+HCP 21 [2.0] Targeted Platform 3 #9467bd
+HCP 21 [1.0] Targeted Platform 3 #ff7f0e
+HCP 21 [5.0] Targeted Platform 5 #9467bd
+HCP 21 [2.0] Targeted Platform 6 #9467bd
+HCP 22 [1.0] Targeted Platform 1 #9467bd
+HCP 22 [4.0] Targeted Platform 3 #1f77b4
+HCP 22 [17.0] Targeted Platform 3 #9467bd
+HCP 22 [2.0] Targeted Platform 3 #bcbd22
+HCP 22 [1.0] Targeted Platform 3 #ff7f0e
+HCP 22 [2.0] Targeted Platform 6 #1f77b4
+HCP 22 [18.0] Targeted Platform 6 #9467bd
+HCP 22 [5.0] Targeted Platform 6 #bcbd22
+HCP 22 [8.0] Targeted Platform 6 #e377c2
+HCP 22 [4.0] Targeted Platform 6 #ff7f0e
+HCP 23 [6.0] Targeted Platform 3 #1f77b4
+HCP 23 [2.0] Targeted Platform 3 #8c564b
+HCP 23 [9.0] Targeted Platform 3 #9467bd
+HCP 23 [3.0] Targeted Platform 3 #bcbd22
+HCP 23 [5.0] Targeted Platform 3 #d62728
+HCP 23 [2.0] Targeted Platform 3 #ff7f0e
+HCP 23 [1.0] Targeted Platform 4 #bcbd22
+HCP 23 [2.0] Targeted Platform 5 #1f77b4
+HCP 23 [1.0] Targeted Platform 5 #9467bd
+HCP 23 [1.0] Targeted Platform 5 #bcbd22
+HCP 23 [1.0] Targeted Platform 5 #ff7f0e
+HCP 23 [4.0] Targeted Platform 6 #9467bd
+HCP 23 [2.0] Targeted Platform 6 #bcbd22
+HCP 24 [13.0] Targeted Platform 3 #9467bd
+HCP 24 [4.0] Targeted Platform 3 #bcbd22
+HCP 24 [4.0] Targeted Platform 3 #e377c2
+HCP 24 [1.0] Targeted Platform 3 #ff7f0e
+HCP 24 [5.0] Targeted Platform 5 #8c564b
+HCP 24 [6.0] Targeted Platform 5 #9467bd
+HCP 24 [8.0] Targeted Platform 6 #1f77b4
+HCP 24 [1.0] Targeted Platform 6 #9467bd
+HCP 24 [8.0] Targeted Platform 6 #bcbd22
+HCP 24 [1.0] Targeted Platform 6 #e377c2
+HCP 3 [6.0] Targeted Platform 1 #9467bd
+HCP 3 [4.0] Targeted Platform 1 #d62728
+HCP 3 [4.0] Targeted Platform 3 #1f77b4
+HCP 3 [3.0] Targeted Platform 3 #7f7f7f
+HCP 3 [10.0] Targeted Platform 3 #9467bd
+HCP 3 [4.0] Targeted Platform 3 #d62728
+HCP 3 [2.0] Targeted Platform 3 #e377c2
+HCP 3 [6.0] Targeted Platform 3 #ff7f0e
+HCP 3 [3.0] Targeted Platform 5 #7f7f7f
+HCP 3 [4.0] Targeted Platform 5 #9467bd
+HCP 3 [1.0] Targeted Platform 5 #ff7f0e
+HCP 3 [2.0] Targeted Platform 6 #9467bd
+HCP 4 [1.0] Targeted Platform 1 #d62728
+HCP 4 [1.0] Targeted Platform 3 #9467bd
+HCP 4 [1.0] Targeted Platform 3 #ff7f0e
+HCP 4 [4.0] Targeted Platform 4 #ff7f0e
+HCP 4 [1.0] Targeted Platform 5 #7f7f7f
+HCP 4 [1.0] Targeted Platform 5 #9467bd
+HCP 4 [2.0] Targeted Platform 5 #d62728
+HCP 4 [2.0] Targeted Platform 6 #1f77b4
+HCP 4 [4.0] Targeted Platform 6 #9467bd
+HCP 4 [1.0] Targeted Platform 6 #ff7f0e
+HCP 5 [1.0] Targeted Platform 3 #1f77b4
+HCP 5 [10.0] Targeted Platform 3 #9467bd
+HCP 5 [3.0] Targeted Platform 3 #d62728
+HCP 5 [1.0] Targeted Platform 3 #ff7f0e
+HCP 5 [1.0] Targeted Platform 5 #7f7f7f
+HCP 5 [13.0] Targeted Platform 5 #9467bd
+HCP 5 [4.0] Targeted Platform 6 #9467bd
+HCP 6 [2.0] Targeted Platform 3 #9467bd
+HCP 6 [1.0] Targeted Platform 3 #bcbd22
+HCP 6 [1.0] Targeted Platform 3 #ff7f0e
+HCP 6 [2.0] Targeted Platform 4 #9467bd
+HCP 6 [22.0] Targeted Platform 5 #9467bd
+HCP 6 [1.0] Targeted Platform 5 #bcbd22
+HCP 6 [2.0] Targeted Platform 5 #e377c2
+HCP 6 [3.0] Targeted Platform 5 #ff7f0e
+HCP 6 [2.0] Targeted Platform 6 #9467bd
+HCP 7 [2.0] Targeted Platform 1 #1f77b4
+HCP 7 [12.0] Targeted Platform 1 #9467bd
+HCP 7 [6.0] Targeted Platform 1 #d62728
+HCP 7 [6.0] Targeted Platform 2 #8c564b
+HCP 7 [3.0] Targeted Platform 3 #1f77b4
+HCP 7 [16.0] Targeted Platform 3 #9467bd
+HCP 7 [3.0] Targeted Platform 3 #ff7f0e
+HCP 7 [1.0] Targeted Platform 4 #9467bd
+HCP 7 [5.0] Targeted Platform 5 #ff7f0e
+HCP 7 [4.0] Targeted Platform 6 #ff7f0e
+HCP 8 [12.0] Targeted Platform 3 #9467bd
+HCP 8 [3.0] Targeted Platform 3 #ff7f0e
+HCP 8 [1.0] Targeted Platform 4 #1f77b4
+HCP 8 [15.0] Targeted Platform 4 #9467bd
+HCP 8 [1.0] Targeted Platform 4 #bcbd22
+HCP 8 [10.0] Targeted Platform 5 #9467bd
+HCP 8 [11.0] Targeted Platform 6 #9467bd
+HCP 9 [4.0] Targeted Platform 1 #1f77b4
+HCP 9 [3.0] Targeted Platform 3 #9467bd
+HCP 9 [5.0] Targeted Platform 3 #d62728
+HCP 9 [8.0] Targeted Platform 3 #ff7f0e
+HCP 9 [2.0] Targeted Platform 4 #9467bd
+HCP 9 [10.0] Targeted Platform 4 #e377c2
+HCP 9 [8.0] Targeted Platform 5 #1f77b4
+HCP 9 [5.0] Targeted Platform 5 #ff7f0e
+HCP 9 [3.0] Targeted Platform 6 #ff7f0e
+
+
+HCP 1 [3.0] Global Platform 2 #ff7f0e
+HCP 1 [5.0] Global Platform 3 #1f77b4
+HCP 1 [3.0] Global Platform 3 #9467bd
+HCP 1 [4.0] Global Platform 5 #1f77b4
+HCP 1 [5.0] Global Platform 5 #9467bd
+HCP 1 [10.0] Global Platform 6 #1f77b4
+HCP 1 [2.0] Global Platform 6 #9467bd
+HCP 1 [3.0] Global Platform 6 #ff7f0e
+HCP 1 [3.0] Global Platform 7 #9467bd
+HCP 10 [6.0] Global Platform 5 #9467bd
+HCP 10 [15.0] Global Platform 6 #9467bd
+HCP 10 [3.0] Global Platform 6 #ff7f0e
+HCP 10 [2.0] Global Platform 7 #1f77b4
+HCP 11 [1.0] Global Platform 3 #7f7f7f
+HCP 11 [6.0] Global Platform 3 #9467bd
+HCP 11 [8.0] Global Platform 3 #ff7f0e
+HCP 11 [2.0] Global Platform 4 #8c564b
+HCP 11 [9.0] Global Platform 4 #ff7f0e
+HCP 11 [6.0] Global Platform 5 #ff7f0e
+HCP 11 [17.0] Global Platform 6 #9467bd
+HCP 11 [13.0] Global Platform 6 #ff7f0e
+HCP 11 [1.0] Global Platform 7 #9467bd
+HCP 12 [1.0] Global Platform 2 #9467bd
+HCP 12 [3.0] Global Platform 3 #1f77b4
+HCP 12 [9.0] Global Platform 3 #9467bd
+HCP 12 [2.0] Global Platform 4 #1f77b4
+HCP 12 [5.0] Global Platform 4 #9467bd
+HCP 12 [5.0] Global Platform 5 #9467bd
+HCP 12 [6.0] Global Platform 6 #1f77b4
+HCP 12 [20.0] Global Platform 6 #9467bd
+HCP 12 [3.0] Global Platform 6 #d62728
+HCP 13 [1.0] Global Platform 2 #9467bd
+HCP 13 [7.0] Global Platform 3 #1f77b4
+HCP 13 [9.0] Global Platform 3 #9467bd
+HCP 13 [1.0] Global Platform 3 #ff7f0e
+HCP 13 [1.0] Global Platform 4 #ff7f0e
+HCP 13 [12.0] Global Platform 5 #9467bd
+HCP 13 [1.0] Global Platform 5 #ff7f0e
+HCP 13 [16.0] Global Platform 6 #9467bd
+HCP 13 [8.0] Global Platform 6 #ff7f0e
+HCP 13 [2.0] Global Platform 7 #1f77b4
+HCP 13 [3.0] Global Platform 7 #9467bd
+HCP 14 [2.0] Global Platform 3 #1f77b4
+HCP 14 [5.0] Global Platform 3 #9467bd
+HCP 14 [1.0] Global Platform 4 #8c564b
+HCP 14 [1.0] Global Platform 4 #e377c2
+HCP 14 [1.0] Global Platform 5 #1f77b4
+HCP 14 [9.0] Global Platform 5 #9467bd
+HCP 14 [1.0] Global Platform 6 #1f77b4
+HCP 14 [22.0] Global Platform 6 #9467bd
+HCP 14 [2.0] Global Platform 6 #e377c2
+HCP 14 [4.0] Global Platform 6 #ff7f0e
+HCP 14 [2.0] Global Platform 7 #9467bd
+HCP 15 [2.0] Global Platform 1 #1f77b4
+HCP 15 [4.0] Global Platform 3 #9467bd
+HCP 15 [2.0] Global Platform 3 #ff7f0e
+HCP 15 [2.0] Global Platform 4 #1f77b4
+HCP 15 [1.0] Global Platform 4 #9467bd
+HCP 15 [5.0] Global Platform 4 #ff7f0e
+HCP 15 [4.0] Global Platform 5 #7f7f7f
+HCP 15 [10.0] Global Platform 5 #9467bd
+HCP 15 [6.0] Global Platform 5 #ff7f0e
+HCP 15 [2.0] Global Platform 6 #1f77b4
+HCP 15 [11.0] Global Platform 6 #9467bd
+HCP 15 [3.0] Global Platform 6 #ff7f0e
+HCP 16 [1.0] Global Platform 1 #1f77b4
+HCP 16 [4.0] Global Platform 1 #9467bd
+HCP 16 [1.0] Global Platform 3 #ff7f0e
+HCP 16 [1.0] Global Platform 5 #1f77b4
+HCP 16 [18.0] Global Platform 5 #9467bd
+HCP 16 [1.0] Global Platform 5 #d62728
+HCP 16 [3.0] Global Platform 5 #ff7f0e
+HCP 16 [1.0] Global Platform 6 #1f77b4
+HCP 16 [6.0] Global Platform 6 #9467bd
+HCP 16 [2.0] Global Platform 6 #ff7f0e
+HCP 16 [1.0] Global Platform 7 #9467bd
+HCP 17 [3.0] Global Platform 2 #d62728
+HCP 17 [2.0] Global Platform 2 #ff7f0e
+HCP 17 [4.0] Global Platform 3 #1f77b4
+HCP 17 [3.0] Global Platform 3 #ff7f0e
+HCP 17 [3.0] Global Platform 4 #e377c2
+HCP 17 [7.0] Global Platform 4 #ff7f0e
+HCP 17 [9.0] Global Platform 5 #ff7f0e
+HCP 17 [10.0] Global Platform 6 #1f77b4
+HCP 17 [1.0] Global Platform 6 #9467bd
+HCP 17 [7.0] Global Platform 6 #d62728
+HCP 17 [16.0] Global Platform 6 #ff7f0e
+HCP 18 [1.0] Global Platform 2 #8c564b
+HCP 18 [1.0] Global Platform 2 #ff7f0e
+HCP 18 [10.0] Global Platform 3 #1f77b4
+HCP 18 [2.0] Global Platform 3 #7f7f7f
+HCP 18 [6.0] Global Platform 3 #9467bd
+HCP 18 [1.0] Global Platform 3 #bcbd22
+HCP 18 [1.0] Global Platform 3 #e377c2
+HCP 18 [2.0] Global Platform 4 #9467bd
+HCP 18 [6.0] Global Platform 4 #d62728
+HCP 18 [3.0] Global Platform 4 #e377c2
+HCP 18 [6.0] Global Platform 5 #9467bd
+HCP 18 [2.0] Global Platform 5 #d62728
+HCP 18 [1.0] Global Platform 5 #ff7f0e
+HCP 18 [11.0] Global Platform 6 #1f77b4
+HCP 18 [1.0] Global Platform 6 #8c564b
+HCP 18 [14.0] Global Platform 6 #9467bd
+HCP 18 [8.0] Global Platform 6 #d62728
+HCP 18 [7.0] Global Platform 6 #ff7f0e
+HCP 18 [2.0] Global Platform 7 #1f77b4
+HCP 18 [16.0] Global Platform 7 #9467bd
+HCP 19 [1.0] Global Platform 3 #9467bd
+HCP 19 [1.0] Global Platform 3 #e377c2
+HCP 19 [4.0] Global Platform 5 #9467bd
+HCP 19 [4.0] Global Platform 6 #9467bd
+HCP 19 [2.0] Global Platform 6 #d62728
+HCP 2 [4.0] Global Platform 2 #9467bd
+HCP 2 [5.0] Global Platform 3 #9467bd
+HCP 2 [1.0] Global Platform 3 #bcbd22
+HCP 2 [5.0] Global Platform 3 #e377c2
+HCP 2 [14.0] Global Platform 3 #ff7f0e
+HCP 2 [2.0] Global Platform 4 #8c564b
+HCP 2 [4.0] Global Platform 4 #ff7f0e
+HCP 2 [2.0] Global Platform 5 #1f77b4
+HCP 2 [10.0] Global Platform 5 #9467bd
+HCP 2 [9.0] Global Platform 5 #ff7f0e
+HCP 2 [2.0] Global Platform 6 #1f77b4
+HCP 2 [1.0] Global Platform 6 #8c564b
+HCP 2 [2.0] Global Platform 6 #9467bd
+HCP 2 [2.0] Global Platform 6 #d62728
+HCP 2 [1.0] Global Platform 6 #e377c2
+HCP 2 [17.0] Global Platform 6 #ff7f0e
+HCP 2 [2.0] Global Platform 7 #1f77b4
+HCP 2 [1.0] Global Platform 7 #9467bd
+HCP 20 [4.0] Global Platform 1 #1f77b4
+HCP 20 [1.0] Global Platform 2 #8c564b
+HCP 20 [10.0] Global Platform 2 #9467bd
+HCP 20 [2.0] Global Platform 2 #d62728
+HCP 20 [1.0] Global Platform 2 #ff7f0e
+HCP 20 [16.0] Global Platform 3 #9467bd
+HCP 20 [11.0] Global Platform 3 #e377c2
+HCP 20 [1.0] Global Platform 3 #ff7f0e
+HCP 20 [4.0] Global Platform 4 #1f77b4
+HCP 20 [4.0] Global Platform 4 #9467bd
+HCP 20 [1.0] Global Platform 4 #bcbd22
+HCP 20 [4.0] Global Platform 4 #e377c2
+HCP 20 [7.0] Global Platform 4 #ff7f0e
+HCP 20 [1.0] Global Platform 5 #1f77b4
+HCP 20 [1.0] Global Platform 5 #7f7f7f
+HCP 20 [5.0] Global Platform 5 #9467bd
+HCP 20 [4.0] Global Platform 5 #d62728
+HCP 20 [5.0] Global Platform 5 #ff7f0e
+HCP 20 [5.0] Global Platform 6 #1f77b4
+HCP 20 [1.0] Global Platform 6 #8c564b
+HCP 20 [21.0] Global Platform 6 #9467bd
+HCP 20 [1.0] Global Platform 6 #bcbd22
+HCP 20 [14.0] Global Platform 6 #d62728
+HCP 20 [2.0] Global Platform 6 #e377c2
+HCP 20 [8.0] Global Platform 6 #ff7f0e
+HCP 20 [4.0] Global Platform 7 #9467bd
+HCP 20 [4.0] Global Platform 7 #ff7f0e
+HCP 21 [1.0] Global Platform 2 #9467bd
+HCP 21 [2.0] Global Platform 2 #d62728
+HCP 21 [1.0] Global Platform 5 #9467bd
+HCP 21 [11.0] Global Platform 6 #9467bd
+HCP 21 [2.0] Global Platform 6 #ff7f0e
+HCP 22 [6.0] Global Platform 1 #e377c2
+HCP 22 [2.0] Global Platform 3 #9467bd
+HCP 22 [3.0] Global Platform 3 #bcbd22
+HCP 22 [1.0] Global Platform 3 #ff7f0e
+HCP 22 [3.0] Global Platform 5 #9467bd
+HCP 22 [1.0] Global Platform 5 #ff7f0e
+HCP 22 [2.0] Global Platform 6 #1f77b4
+HCP 22 [35.0] Global Platform 6 #9467bd
+HCP 22 [2.0] Global Platform 6 #bcbd22
+HCP 22 [8.0] Global Platform 6 #e377c2
+HCP 22 [4.0] Global Platform 6 #ff7f0e
+HCP 22 [4.0] Global Platform 7 #1f77b4
+HCP 22 [11.0] Global Platform 7 #9467bd
+HCP 22 [2.0] Global Platform 7 #bcbd22
+HCP 23 [1.0] Global Platform 1 #1f77b4
+HCP 23 [3.0] Global Platform 3 #1f77b4
+HCP 23 [2.0] Global Platform 3 #9467bd
+HCP 23 [1.0] Global Platform 3 #bcbd22
+HCP 23 [2.0] Global Platform 3 #ff7f0e
+HCP 23 [1.0] Global Platform 4 #8c564b
+HCP 23 [1.0] Global Platform 4 #9467bd
+HCP 23 [1.0] Global Platform 4 #bcbd22
+HCP 23 [4.0] Global Platform 5 #9467bd
+HCP 23 [3.0] Global Platform 5 #d62728
+HCP 23 [5.0] Global Platform 6 #1f77b4
+HCP 23 [6.0] Global Platform 6 #9467bd
+HCP 23 [3.0] Global Platform 6 #bcbd22
+HCP 23 [2.0] Global Platform 6 #d62728
+HCP 23 [2.0] Global Platform 7 #9467bd
+HCP 23 [2.0] Global Platform 7 #bcbd22
+HCP 24 [6.0] Global Platform 3 #9467bd
+HCP 24 [4.0] Global Platform 3 #bcbd22
+HCP 24 [1.0] Global Platform 3 #e377c2
+HCP 24 [1.0] Global Platform 3 #ff7f0e
+HCP 24 [3.0] Global Platform 4 #e377c2
+HCP 24 [3.0] Global Platform 5 #9467bd
+HCP 24 [8.0] Global Platform 6 #1f77b4
+HCP 24 [5.0] Global Platform 6 #8c564b
+HCP 24 [16.0] Global Platform 6 #9467bd
+HCP 24 [4.0] Global Platform 6 #bcbd22
+HCP 24 [1.0] Global Platform 6 #e377c2
+HCP 24 [2.0] Global Platform 7 #9467bd
+HCP 24 [4.0] Global Platform 7 #bcbd22
+HCP 3 [4.0] Global Platform 2 #9467bd
+HCP 3 [4.0] Global Platform 2 #d62728
+HCP 3 [1.0] Global Platform 2 #ff7f0e
+HCP 3 [3.0] Global Platform 3 #7f7f7f
+HCP 3 [2.0] Global Platform 3 #e377c2
+HCP 3 [4.0] Global Platform 4 #ff7f0e
+HCP 3 [4.0] Global Platform 5 #1f77b4
+HCP 3 [3.0] Global Platform 5 #7f7f7f
+HCP 3 [9.0] Global Platform 5 #9467bd
+HCP 3 [8.0] Global Platform 5 #d62728
+HCP 3 [2.0] Global Platform 6 #1f77b4
+HCP 3 [5.0] Global Platform 6 #9467bd
+HCP 3 [7.0] Global Platform 6 #ff7f0e
+HCP 3 [6.0] Global Platform 7 #9467bd
+HCP 4 [1.0] Global Platform 2 #d62728
+HCP 4 [1.0] Global Platform 3 #7f7f7f
+HCP 4 [1.0] Global Platform 3 #ff7f0e
+HCP 4 [4.0] Global Platform 4 #d62728
+HCP 4 [3.0] Global Platform 5 #9467bd
+HCP 4 [5.0] Global Platform 5 #ff7f0e
+HCP 4 [2.0] Global Platform 6 #1f77b4
+HCP 4 [4.0] Global Platform 6 #9467bd
+HCP 4 [1.0] Global Platform 6 #d62728
+HCP 4 [5.0] Global Platform 6 #ff7f0e
+HCP 4 [4.0] Global Platform 7 #ff7f0e
+HCP 5 [1.0] Global Platform 3 #7f7f7f
+HCP 5 [2.0] Global Platform 3 #9467bd
+HCP 5 [1.0] Global Platform 3 #ff7f0e
+HCP 5 [3.0] Global Platform 4 #9467bd
+HCP 5 [4.0] Global Platform 4 #d62728
+HCP 5 [5.0] Global Platform 5 #9467bd
+HCP 5 [1.0] Global Platform 5 #d62728
+HCP 5 [1.0] Global Platform 6 #1f77b4
+HCP 5 [19.0] Global Platform 6 #9467bd
+HCP 6 [16.0] Global Platform 3 #9467bd
+HCP 6 [1.0] Global Platform 3 #bcbd22
+HCP 6 [1.0] Global Platform 3 #e377c2
+HCP 6 [1.0] Global Platform 3 #ff7f0e
+HCP 6 [2.0] Global Platform 4 #9467bd
+HCP 6 [1.0] Global Platform 4 #ff7f0e
+HCP 6 [5.0] Global Platform 6 #9467bd
+HCP 6 [1.0] Global Platform 6 #ff7f0e
+HCP 6 [1.0] Global Platform 7 #9467bd
+HCP 7 [6.0] Global Platform 2 #8c564b
+HCP 7 [2.0] Global Platform 2 #9467bd
+HCP 7 [6.0] Global Platform 2 #d62728
+HCP 7 [2.0] Global Platform 3 #1f77b4
+HCP 7 [12.0] Global Platform 3 #9467bd
+HCP 7 [3.0] Global Platform 3 #ff7f0e
+HCP 7 [2.0] Global Platform 4 #9467bd
+HCP 7 [3.0] Global Platform 4 #ff7f0e
+HCP 7 [6.0] Global Platform 5 #9467bd
+HCP 7 [1.0] Global Platform 5 #ff7f0e
+HCP 7 [1.0] Global Platform 6 #1f77b4
+HCP 7 [9.0] Global Platform 6 #9467bd
+HCP 7 [6.0] Global Platform 6 #d62728
+HCP 7 [6.0] Global Platform 6 #ff7f0e
+HCP 8 [9.0] Global Platform 3 #9467bd
+HCP 8 [3.0] Global Platform 3 #ff7f0e
+HCP 8 [1.0] Global Platform 4 #bcbd22
+HCP 8 [19.0] Global Platform 5 #9467bd
+HCP 8 [1.0] Global Platform 6 #1f77b4
+HCP 8 [12.0] Global Platform 6 #9467bd
+HCP 8 [1.0] Global Platform 6 #bcbd22
+HCP 9 [10.0] Global Platform 3 #1f77b4
+HCP 9 [2.0] Global Platform 3 #ff7f0e
+HCP 9 [5.0] Global Platform 4 #ff7f0e
+HCP 9 [3.0] Global Platform 5 #9467bd
+HCP 9 [10.0] Global Platform 5 #e377c2
+HCP 9 [13.0] Global Platform 5 #ff7f0e
+HCP 9 [2.0] Global Platform 6 #9467bd
+HCP 9 [10.0] Global Platform 6 #d62728
+HCP 9 [3.0] Global Platform 6 #ff7f0e
+HCP 9 [10.0] Global Platform 7 #e377c2
+
+
+
+
+
+
+
+
+
+// You can set a Node's color, like this:
+:Cofactor and\nmineral metabolism #1f77b4
+:Complex molecule\nand organelle metabolism #ff7f0e
+:Intermediary\nmetabolism: Nutrients #9467bd
+:Lipid metabolism\nand transport #e377c2
+:Metabolic\ncell signaling #7f7f7f
+:Metabolism of\nheterocyclic compounds #bcbd22
+:Intermediary\nmetabolism: Energy #d62728
+:Intermediary\nmetabolism: Other #8c564b
+
+:HCP 1 #88CC99
+:HCP 2 #88CC99
+:HCP 3 #88CC99
+:HCP 4 #88CC99
+:HCP 5 #88CC99
+:HCP 6 #88CC99
+:HCP 7 #88CC99
+:HCP 8 #88CC99
+:HCP 9 #88CC99
+:HCP 10 #88CC99
+:HCP 11 #88CC99
+:HCP 12 #88CC99
+:HCP 13 #88CC99
+:HCP 14 #88CC99
+:HCP 15 #88CC99
+:HCP 16 #88CC99
+:HCP 17 #88CC99
+:HCP 18 #88CC99
+:HCP 19 #88CC99
+:HCP 20 #88CC99
+:HCP 21 #88CC99
+:HCP 22 #88CC99
+:HCP 23 #88CC99
+:HCP 24 #88CC99
+
+:Global Platform 1 #9988CC
+:Global Platform 2 #9988CC
+:Global Platform 3 #9988CC
+:Global Platform 4 #9988CC
+:Global Platform 5 #9988CC
+:Global Platform 6 #9988CC
+:Global Platform 7 #9988CC
+
+:Targeted Platform 1 #FFB5A7
+:Targeted Platform 2 #FFB5A7
+:Targeted Platform 3 #FFB5A7
+:Targeted Platform 4 #FFB5A7
+:Targeted Platform 5 #FFB5A7
+:Targeted Platform 6 #FFB5A7
+
+//            ...or a color for a single Flow:
+
+
+
+// Use the controls below to customize
+// your diagram's appearance...
+
+// === Settings ===
+
+size w 1600
+ h 1200
+margin l 12
+ r 12
+ t 18
+ b 10
+bg color #ffffff
+ transparent N
+node w 85
+ h 79
+ spacing 75
+ border 0
+ theme a
+ color #5385d5
+ opacity 0.65
+flow curvature 0.5
+ inheritfrom outside-in
+ color #999999
+ opacity 0.45
+layout order exact
+ justifyorigins Y
+ justifyends Y
+ reversegraph N
+ attachincompletesto nearest
+labels color #000000
+ hide N
+ highlight 0
+ fontface sans-serif
+ linespacing 0.2
+ relativesize 112
+ magnify 100
+labelname appears Y
+ size 25
+ weight 100
+labelvalue appears N
+ fullprecision Y
+ position below
+ weight 400
+labelposition autoalign 0
+ scheme auto
+ first before
+ breakpoint 4
+value format ',.'
+ prefix ''
+ suffix ''
+themeoffset a 4
+ b 0
+ c 3
+ d 0
+meta mentionsankeymatic N
+ listimbalances Y
+
+// === Moved Nodes ===
+
+move HCP 1 -0.00428, -0.02547
+move HCP 17 -0.00486, 0.35687
+move HCP 2 -0.00495, -0.36368
+move HCP 11 -0.00415, -0.52532
+move HCP 5 -0.00514, -0.57385
+move HCP 12 -0.00313, 0.35051
+move HCP 6 -0.00514, -0.76681
+move HCP 7 -0.00514, -0.55305
+move HCP 8 -0.00514, -0.54849
+move HCP 23 -0.00482, 0.33207
+move HCP 18 -0.00363, 0.36571
+move HCP 16 -0.00353, 0.3513
+move HCP 14 -0.00374, 0.35209
+move HCP 10 -0.00428, 0.29978
+move HCP 15 -0.00346, 0.35387
+move HCP 20 -0.00465, 0.33264
+move HCP 13 -0.00416, 0.35354
+move HCP 9 -0.00511, -0.54984
+move HCP 21 -0.005, -0.08933
+move HCP 22 -0.0047, 0.33956
+move HCP 24 -0.00383, 0.33787
+move Global Platform 1 -0.00099, -0.92942
+move Global Platform 2 0.00099, -0.45444
+move Targeted Platform 3 0, 0.62422
+move Global Platform 4 0, -0.77482
+move Global Platform 3 0.00099, -0.48021
+move Global Platform 5 0, -0.43272
+move Targeted Platform 5 0, 0.59736
+move Global Platform 6 0, -0.47432
+move Global Platform 7 0, -0.39996
+move Targeted Platform 1 0.00198, 0.51119
+move Targeted Platform 2 0.00099, 0.13213
+move Targeted Platform 4 0, 0.36221
+move Intermediary\nmetabolism: Nutrients 0, -0.56251
+move Complex molecule\nand organelle metabolism 0, -0.17427
+move Intermediary\nmetabolism: Energy -0.00099, 0.04598
+move Lipid metabolism\nand transport -0.00099, -0.02371
+move Metabolic\ncell signaling 0, 0.32374
+move Intermediary\nmetabolism: Other -0.00099, 0.12315
+move Metabolism of\nheterocyclic compounds 0, 0.19388
+move Targeted Platform 6 0, 0.58538
+move Cofactor and\nmineral metabolism -0.00099, 0.0133
+move HCP 3 -0.00396, -0.5831
+move HCP 4 -0.00494, -0.57079
+move HCP 19 -0.00297, -0.2458
