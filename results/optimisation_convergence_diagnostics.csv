@@ -1,6 +1,6 @@
 model_context,solver_name,solver_status,final_objective_value,maximum_feasibility_residual,mip_gap
 Clinical recruitment,gurobi,1,426.466854146015,0,N/A
-+Sample allocation,gurobi,1,805.045337389515,0,N/A
++Sample allocation,gurobi,1,807.045337389515,0,N/A
 +Omics analysis cost,gurobi,1,5885.85231491499,0,N/A
 +Clinical interest,gurobi,1,5043.52594372399,0,N/A
-+Collaboration logistics,gurobi,1,490196.628677291,0,N/A
++Collaboration logistics,gurobi,1,490203.545716108,0,N/A
